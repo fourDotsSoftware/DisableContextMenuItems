@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableContextMenuItems", "DisableContextMenuItems\DisableContextMenuItems.csproj", "{669030CD-FCD0-4217-8231-A1A785001AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669030CD-FCD0-4217-8231-A1A785001AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669030CD-FCD0-4217-8231-A1A785001AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669030CD-FCD0-4217-8231-A1A785001AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669030CD-FCD0-4217-8231-A1A785001AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+HKLM
+{
+    NoRemove Software
+    {
+       NoRemove Classes
+       {
+	NoRemove CLSID
+	{
+		ForceRemove {838B42D9-1410-40D5-A880-01DCDE63FE97} = s 'DisableContextMenuItemsShellExt Class'
+		{			
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			shellex
+			{
+				MayChangeDefaultMenu		
+			}
+		}
+	}		
+    
+	NoRemove *
+    {
+        NoRemove ShellEx
+        {
+            NoRemove ContextMenuHandlers
+            {
+                ForceRemove DisableContextMenuItems = s '{838B42D9-1410-40D5-A880-01DCDE63FE97}'
+            }
+        }
+    }
+    
+    
+    
+
+	NoRemove Folder
+    {
+        NoRemove ShellEx
+        {
+            NoRemove ContextMenuHandlers
+            {
+                ForceRemove DisableContextMenuItems = s '{838B42D9-1410-40D5-A880-01DCDE63FE97}'
+            }
+        }
+    }
+
+	}
+
+    }
+}
+
+
+

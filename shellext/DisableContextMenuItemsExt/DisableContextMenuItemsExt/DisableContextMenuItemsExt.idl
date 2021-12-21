@@ -1,0 +1,36 @@
+// DisableContextMenuItemsExt.idl : IDL source for DisableContextMenuItemsExt
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (DisableContextMenuItemsExt.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	
+	object,
+	
+	uuid(C9E97CDF-D49E-4B37-9D4C-6CFB7F7A5A15),
+	helpstring("IDisableContextMenuItemsShellExt Interface"),
+	pointer_default(unique)
+]
+interface IDisableContextMenuItemsShellExt : IUnknown{
+};
+[		
+	uuid(578EE897-C458-4BD3-B3FA-91638E7CED2F),
+	version(1.0),
+	helpstring("DisableContextMenuItemsExt 1.0 Type Library")
+]
+library DisableContextMenuItemsExtLib
+{
+	importlib("stdole2.tlb");
+	[			
+		uuid(838B42D9-1410-40D5-A880-01DCDE63FE97),
+		helpstring("DisableContextMenuItemsShellExt Class")
+	]
+	coclass DisableContextMenuItemsShellExt
+	{
+		[default] interface IDisableContextMenuItemsShellExt;
+	};
+};

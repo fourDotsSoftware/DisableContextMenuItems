@@ -1,0 +1,1354 @@
+﻿<Mappings><Entry OldName="DisableContextMenuItems.ContextMenuHelper.DtFrom" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c85b1be623265559a595f84ab5f5af3ee" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.DtLast" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.ce01a386fca03cee5cc8de05309c21b23" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.DtTo" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.cf7f940bef04c47ba6b0323f8c344cc13" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.Ve" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c261b30b948513854c30acc3d41c4c78a" />
+<Entry OldName="DisableContextMenuItems.CustomForm.LoadComplete" NewName="DisableContextMenuItems.CustomForm.ca77c66cc5dcd0a75f984725fd51ea48b" />
+<Entry OldName="DisableContextMenuItems.CustomForm.BackGroundImg" NewName="DisableContextMenuItems.CustomForm.c880b97ef4aa5d5032db663b8d31ec25f" />
+<Entry OldName="DisableContextMenuItems.CustomForm.components" NewName="DisableContextMenuItems.CustomForm.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel.oldFont" NewName="DisableContextMenuItems.CustomTextBoxLabel.c33d661bf1d0e308880b2b33848e6f473" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel.oldHeight" NewName="DisableContextMenuItems.CustomTextBoxLabel.c301ce518af6de04edb00610554d8de2b" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel._Caption" NewName="DisableContextMenuItems.CustomTextBoxLabel.cf6c727bdc8b6bda2e5a64d6d34cd891e" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel._Enter" NewName="DisableContextMenuItems.CustomTextBoxLabel.c5ee875d7894fe905d7c93cc7c328bcf2" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel.components" NewName="DisableContextMenuItems.CustomTextBoxLabel.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper.tsiDownloadRoot" NewName="A.c9c30723be466d34f2d0ca956944de283.c2f72101b50554024fb83f14d2db1be5a" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper.Category" NewName="A.c9c30723be466d34f2d0ca956944de283.c15112586fcdfe03d8da77b54bb58e8eb" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper.App" NewName="A.c9c30723be466d34f2d0ca956944de283.c783bbcd74772dd8d49494d61cfd4c51e" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper.Url" NewName="A.c9c30723be466d34f2d0ca956944de283.cd4c3716e9e37969ae752c8ce953ca4d5" />
+<Entry OldName="DisableContextMenuItems.frmAbout.components" NewName="DisableContextMenuItems.frmAbout.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmAbout.lblAbout" NewName="DisableContextMenuItems.frmAbout.ca9310f7ad0561dcaa28827f52db14c3b" />
+<Entry OldName="DisableContextMenuItems.frmAbout.btnClose" NewName="DisableContextMenuItems.frmAbout.c6aa502bcca01ed484c7621dbf499a2c0" />
+<Entry OldName="DisableContextMenuItems.frmAbout.pictureBox1" NewName="DisableContextMenuItems.frmAbout.ccc7dfff523f657f7cdb26001035661a4" />
+<Entry OldName="DisableContextMenuItems.frmAbout.linkLabel1" NewName="DisableContextMenuItems.frmAbout.c216b9dd5d5452feba57c3d83f9f59103" />
+<Entry OldName="DisableContextMenuItems.frmAbout.label1" NewName="DisableContextMenuItems.frmAbout.c2937f01001bb710e72c8c2adba291124" />
+<Entry OldName="DisableContextMenuItems.frmAbout.label2" NewName="DisableContextMenuItems.frmAbout.c5769be886a85db2b061fb0d26e47bd98" />
+<Entry OldName="DisableContextMenuItems.frmAbout.linkLabel2" NewName="DisableContextMenuItems.frmAbout.c1557fb6090013b43f31114d8235051e7" />
+<Entry OldName="DisableContextMenuItems.frmAbout.niceLine1" NewName="DisableContextMenuItems.frmAbout.c31a5506add1e664e9b0b801bfaaae03d" />
+<Entry OldName="DisableContextMenuItems.frmAbout.niceLine3" NewName="DisableContextMenuItems.frmAbout.cdf8715990463db1dfa03f1dd86967f26" />
+<Entry OldName="DisableContextMenuItems.frmAbout.label3" NewName="DisableContextMenuItems.frmAbout.cb57d727a5b854795854dfcb830151a8d" />
+<Entry OldName="DisableContextMenuItems.frmAbout.ullProductWebpage" NewName="DisableContextMenuItems.frmAbout.cc1aa202803ab8dfc54bdf0883f7c0c5d" />
+<Entry OldName="DisableContextMenuItems.frmAbout.btnBuy" NewName="DisableContextMenuItems.frmAbout.c5a10a10c122e08af14ac5e889a1c2b53" />
+<Entry OldName="DisableContextMenuItems.frmAbout.lblRegistered" NewName="DisableContextMenuItems.frmAbout.c44e75c704895116462dfcd2b505d4418" />
+<Entry OldName="DisableContextMenuItems.frmAbout.btnRegister" NewName="DisableContextMenuItems.frmAbout.c7ced6a990aaca6a81b03f886ba4a80f3" />
+<Entry OldName="DisableContextMenuItems.frmAbout.niceLine2" NewName="DisableContextMenuItems.frmAbout.c13b72b07f67dd6b6c4beb7e56f59af81" />
+<Entry OldName="DisableContextMenuItems.frmAbout.label4" NewName="DisableContextMenuItems.frmAbout.cffda28a79c0e06041ff66032dbd678ef" />
+<Entry OldName="DisableContextMenuItems.frmAbout.lblLicenseKey" NewName="DisableContextMenuItems.frmAbout.c40c6d63293a64f92546ef2e2924acffa" />
+<Entry OldName="DisableContextMenuItems.frmAbout.niceLine4" NewName="DisableContextMenuItems.frmAbout.c8e37164c4df99a9eb810b16a16f90f21" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.components" NewName="DisableContextMenuItems.frmAdeia.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.label1" NewName="DisableContextMenuItems.frmAdeia.c2937f01001bb710e72c8c2adba291124" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.btnOK" NewName="DisableContextMenuItems.frmAdeia.cd54c3f0b08a36aac91b850b0031c76af" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.label2" NewName="DisableContextMenuItems.frmAdeia.c5769be886a85db2b061fb0d26e47bd98" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.btnExit" NewName="DisableContextMenuItems.frmAdeia.c992e029ec31af0078ef16d61513e1152" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.lblAppName" NewName="DisableContextMenuItems.frmAdeia.ceea0ae5d08af01da43ec452b5c6c9b16" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.NewPassword" NewName="DisableContextMenuItems.frmChangePassword.cb72b320dfc598b2bb08afac16b6c9964" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.WrongPasswordTriesCount" NewName="DisableContextMenuItems.frmChangePassword.c7681712074063f8638fc52a911ec7582" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.components" NewName="DisableContextMenuItems.frmChangePassword.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.btnCancel" NewName="DisableContextMenuItems.frmChangePassword.ceae8ef2023136a4be94b49dcefb56946" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.btnOK" NewName="DisableContextMenuItems.frmChangePassword.cd54c3f0b08a36aac91b850b0031c76af" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.lblOldPassword" NewName="DisableContextMenuItems.frmChangePassword.c3925b3b290403c59c12bf287b6a19e7c" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.label2" NewName="DisableContextMenuItems.frmChangePassword.c5769be886a85db2b061fb0d26e47bd98" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.label3" NewName="DisableContextMenuItems.frmChangePassword.cb57d727a5b854795854dfcb830151a8d" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate._DownloadFile" NewName="DisableContextMenuItems.frmDownloadUpdate.c3058dee107d4a2adf360105a080e5be2" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.components" NewName="DisableContextMenuItems.frmDownloadUpdate.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.pgBar" NewName="DisableContextMenuItems.frmDownloadUpdate.cdd77f4f449b1dc410040188298e681a6" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.btnCancelDownload" NewName="DisableContextMenuItems.frmDownloadUpdate.c0d4c83de498844b37b8ad2d04ac6f05b" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.bwDownload" NewName="DisableContextMenuItems.frmDownloadUpdate.cc26b2c11b4f84edc5ac11f947fa0e9b8" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.label1" NewName="DisableContextMenuItems.frmDownloadUpdate.c2937f01001bb710e72c8c2adba291124" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.lblTotalSize" NewName="DisableContextMenuItems.frmDownloadUpdate.c140b1ea1ca5b043abafa104d7b8df234" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.NewPassword" NewName="DisableContextMenuItems.frmEncryptionPassword.cb72b320dfc598b2bb08afac16b6c9964" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.WrongPasswordTriesCount" NewName="DisableContextMenuItems.frmEncryptionPassword.c7681712074063f8638fc52a911ec7582" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.NotifyOK" NewName="DisableContextMenuItems.frmEncryptionPassword.cab1fd3e4d489cf0918784200948b3c40" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.components" NewName="DisableContextMenuItems.frmEncryptionPassword.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.btnCancel" NewName="DisableContextMenuItems.frmEncryptionPassword.ceae8ef2023136a4be94b49dcefb56946" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.btnOK" NewName="DisableContextMenuItems.frmEncryptionPassword.cd54c3f0b08a36aac91b850b0031c76af" />
+<Entry OldName="DisableContextMenuItems.frmError.components" NewName="DisableContextMenuItems.frmError.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmError.txtError" NewName="DisableContextMenuItems.frmError.c84f37f34fbfa12ac3290aec51e8b674b" />
+<Entry OldName="DisableContextMenuItems.frmError.pictureBox1" NewName="DisableContextMenuItems.frmError.ccc7dfff523f657f7cdb26001035661a4" />
+<Entry OldName="DisableContextMenuItems.frmError.btnClose" NewName="DisableContextMenuItems.frmError.c6aa502bcca01ed484c7621dbf499a2c0" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.components" NewName="DisableContextMenuItems.frmLanguage.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.label1" NewName="DisableContextMenuItems.frmLanguage.c2937f01001bb710e72c8c2adba291124" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.cmbLanguage" NewName="DisableContextMenuItems.frmLanguage.c059dfacb215985f8d922eac717eaa58b" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.btnOK" NewName="DisableContextMenuItems.frmLanguage.cd54c3f0b08a36aac91b850b0031c76af" />
+<Entry OldName="DisableContextMenuItems.frmMain.InSetupOnLoad" NewName="DisableContextMenuItems.frmMain.c8ba06bd847dfa9d214a7cdd8909b59da" />
+<Entry OldName="DisableContextMenuItems.frmMain.lUsers" NewName="DisableContextMenuItems.frmMain.c46e98daac9e75e18bcbf316f8f0ada62" />
+<Entry OldName="DisableContextMenuItems.frmMain.lSID" NewName="DisableContextMenuItems.frmMain.c1c7c5050f06dc479c7d3698120466780" />
+<Entry OldName="DisableContextMenuItems.frmMain.InChangeLanguage" NewName="DisableContextMenuItems.frmMain.c564d9313ba9d8490f944d5ce50052eef" />
+<Entry OldName="DisableContextMenuItems.frmMain.components" NewName="DisableContextMenuItems.frmMain.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmMain.niceLine1" NewName="DisableContextMenuItems.frmMain.c31a5506add1e664e9b0b801bfaaae03d" />
+<Entry OldName="DisableContextMenuItems.frmMain.lstUsers" NewName="DisableContextMenuItems.frmMain.c4eb367271cf627c54c5a0a0b1f9a3f26" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnAddCurrentUser" NewName="DisableContextMenuItems.frmMain.cd12818e687baf35c4ec6fd655b5f4278" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnSelectAll" NewName="DisableContextMenuItems.frmMain.ceca32a6021551d970c2e0375f44d2912" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnUnselectAll" NewName="DisableContextMenuItems.frmMain.cddc501f4423a6265ea5f76c198c44ebc" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnInvertSelection" NewName="DisableContextMenuItems.frmMain.c5c1632e466879d6089e740dfd334c1f1" />
+<Entry OldName="DisableContextMenuItems.frmMain.niceLine2" NewName="DisableContextMenuItems.frmMain.c13b72b07f67dd6b6c4beb7e56f59af81" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkCut" NewName="DisableContextMenuItems.frmMain.cd248c5295acde9e804cc25c668d33347" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkCopy" NewName="DisableContextMenuItems.frmMain.cb41be01164291b435de5fea340ee3dd2" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkDelete" NewName="DisableContextMenuItems.frmMain.cf63f588cf639ef96cd3ffd558bfeddbb" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkRename" NewName="DisableContextMenuItems.frmMain.ca3d9736feaa7639dfd7c467ec700036f" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkProperties" NewName="DisableContextMenuItems.frmMain.cc7589fe7b71bcb05dd296d20eaa2c820" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnOK" NewName="DisableContextMenuItems.frmMain.cd54c3f0b08a36aac91b850b0031c76af" />
+<Entry OldName="DisableContextMenuItems.frmMain.niceLine3" NewName="DisableContextMenuItems.frmMain.cdf8715990463db1dfa03f1dd86967f26" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkDoubleClickOpen" NewName="DisableContextMenuItems.frmMain.c482227151c99a7cbf565c70c883f722b" />
+<Entry OldName="DisableContextMenuItems.frmMain.niceLine4" NewName="DisableContextMenuItems.frmMain.c8e37164c4df99a9eb810b16a16f90f21" />
+<Entry OldName="DisableContextMenuItems.frmMain.button2" NewName="DisableContextMenuItems.frmMain.cf37123f657958ae6c1b5df81ea873dd7" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnInvSel" NewName="DisableContextMenuItems.frmMain.cf3fcd270aa4dc0d770cf78b30c9f7f68" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnUnSelAll" NewName="DisableContextMenuItems.frmMain.c2cf50f928c80e2928fd8ba1f806d7dd8" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnSelAll" NewName="DisableContextMenuItems.frmMain.c8df41cdb16b3c9e90597616e25f0ecd5" />
+<Entry OldName="DisableContextMenuItems.frmMain.groupBox1" NewName="DisableContextMenuItems.frmMain.cd4736bba30136ce69c55c4dd66f04cf3" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkCurrentUser" NewName="DisableContextMenuItems.frmMain.c38bb49ba0b5fe4542e2747a68ce33f0f" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkAllUsers" NewName="DisableContextMenuItems.frmMain.c0fc202a40b8e65bfeca26c7251f8a845" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkSelectUsers" NewName="DisableContextMenuItems.frmMain.c7df68f41350be9896cf8c428a36ea8b3" />
+<Entry OldName="DisableContextMenuItems.frmMain.menuStrip1" NewName="DisableContextMenuItems.frmMain.cf81489ebe0b1e2d4a508f9ea13075ecd" />
+<Entry OldName="DisableContextMenuItems.frmMain.fileToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c0d3c0c129c081f69fefe039830f05a4c" />
+<Entry OldName="DisableContextMenuItems.frmMain.exitToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c468efe1eeb62a4d2ee410fb147e65575" />
+<Entry OldName="DisableContextMenuItems.frmMain.tsiDownload" NewName="DisableContextMenuItems.frmMain.c3c50fa6c2139edf0f2009dada08c61a8" />
+<Entry OldName="DisableContextMenuItems.frmMain.pleaseShareToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c4d6d50d87093ceeb8865650e9b2cebb8" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnFacebookToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c06fd852d82cf4ee1c527a64a4104d204" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnTwitterToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c011bfcaa31e1d82704ea6d5ee49e1c41" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnGooglePlusToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c857a1db83e7350b3da25f46e58b02972" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnLinkedinToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c39a934d42f3509a662075e00f5315176" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareWithEmailToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c19d5d00ea05481e4fed6879a1d6edc22" />
+<Entry OldName="DisableContextMenuItems.frmMain.buyToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c5498f2ad22ae5e546375e47217daa3f3" />
+<Entry OldName="DisableContextMenuItems.frmMain.buyApplicationToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.cbca18aee3353f92c3c32c7fd1c5df99a" />
+<Entry OldName="DisableContextMenuItems.frmMain.enterLicenseKeyToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.ccd64492a6277a1c734a503b98d6b58c4" />
+<Entry OldName="DisableContextMenuItems.frmMain.helpToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c75169601855c212d4da662a7f9d803f6" />
+<Entry OldName="DisableContextMenuItems.frmMain.helpUsersManualToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.cae902fe543c0cb592b27d9c1591143d3" />
+<Entry OldName="DisableContextMenuItems.frmMain.toolStripMenuItem6" NewName="DisableContextMenuItems.frmMain.cad20a22afc642da033f23208f226f667" />
+<Entry OldName="DisableContextMenuItems.frmMain.pleaseDonateToolStripMenuItem1" NewName="DisableContextMenuItems.frmMain.c42e480c7e778b3754738004dedade9c2" />
+<Entry OldName="DisableContextMenuItems.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c2da9576f123a344cfc0eaf223353c690" />
+<Entry OldName="DisableContextMenuItems.frmMain.followUsOnTwitterToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.cc684580d14d9294e316de333fcaaafd2" />
+<Entry OldName="DisableContextMenuItems.frmMain.visit4dotsSoftwareWebpageToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c9d918635253cb49f7156fe34de14c228" />
+<Entry OldName="DisableContextMenuItems.frmMain.toolStripMenuItem5" NewName="DisableContextMenuItems.frmMain.cd584350d18230b690be13deafdd56273" />
+<Entry OldName="DisableContextMenuItems.frmMain.feedbackToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c40bae6ef0843765effa2ede120a73309" />
+<Entry OldName="DisableContextMenuItems.frmMain.checkForNewVersionToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.cbd7dec0b031905ba749763de0a493f8e" />
+<Entry OldName="DisableContextMenuItems.frmMain.aboutToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c77aed63334cdcd38f3e72ccb0a66e1fa" />
+<Entry OldName="DisableContextMenuItems.frmMain.languageToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c547e20de6661410b44ee3f3d2b3d9c09" />
+<Entry OldName="DisableContextMenuItems.frmMain.languages1ToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.cc3b1fa9d79f163f206b491bdc654eda1" />
+<Entry OldName="DisableContextMenuItems.frmMain.languages2ToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c6df0015228be11f44de8ff5a49007a5b" />
+<Entry OldName="DisableContextMenuItems.frmMain.optionsToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.ce401b09549abdee9f362379f8dc85793" />
+<Entry OldName="DisableContextMenuItems.frmMain.changePasswordToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c6edf02d1c621180e36d4278eff8219ef" />
+<Entry OldName="DisableContextMenuItems.frmMain.requirePasswordToolStripMenuItem" NewName="DisableContextMenuItems.frmMain.c12e9d765ca3bf9498449350faaf96e62" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.components" NewName="DisableContextMenuItems.frmPurchase.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnBuy" NewName="DisableContextMenuItems.frmPurchase.c5a10a10c122e08af14ac5e889a1c2b53" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.lblMsg" NewName="DisableContextMenuItems.frmPurchase.c76e3769a0c15b44cc3047b2465ad9b16" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnClose" NewName="DisableContextMenuItems.frmPurchase.c6aa502bcca01ed484c7621dbf499a2c0" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.lblWait" NewName="DisableContextMenuItems.frmPurchase.c9cbf4ed77a602e15a1ec0bb66289f58b" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.timContinue" NewName="DisableContextMenuItems.frmPurchase.c639156baa71bedae6899222c1956f78c" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.lblAppName" NewName="DisableContextMenuItems.frmPurchase.ceea0ae5d08af01da43ec452b5c6c9b16" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnRegister" NewName="DisableContextMenuItems.frmPurchase.c7ced6a990aaca6a81b03f886ba4a80f3" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.components" NewName="DisableContextMenuItems.frmSchedule.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.label1" NewName="DisableContextMenuItems.frmSchedule.c2937f01001bb710e72c8c2adba291124" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.cmbSchedule" NewName="DisableContextMenuItems.frmSchedule.c905775b69dfc72e97e03fb4a26b6d5b3" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.button2" NewName="DisableContextMenuItems.frmSchedule.cf37123f657958ae6c1b5df81ea873dd7" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.btnOK" NewName="DisableContextMenuItems.frmSchedule.cd54c3f0b08a36aac91b850b0031c76af" />
+<Entry OldName="DisableContextMenuItems.ImageComboBox.imageList" NewName="A.c653142a028827f3b6d5c8760fe9ea5e4.cb6cbf2d282f55c65e5fa41ba6c1ff099" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem._text" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.ca2c450e14975af5c41e7bc192d7daa3a" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem._imageIndex" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.cbe425a9c600655f6986532521f925d33" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper.DtFrom" NewName="A.c40513dd4574957507f109fb91d8574c4.c85b1be623265559a595f84ab5f5af3ee" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper.DtLast" NewName="A.c40513dd4574957507f109fb91d8574c4.ce01a386fca03cee5cc8de05309c21b23" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper.frmad" NewName="A.c09c92078107d845cf2b3609853cb2aef.c0a209fb75fe55d3aa12fc7f749c98633" />
+<Entry OldName="DisableContextMenuItems.MiscHelper.DateTimeFormat" NewName="A.c07b7098132ed80b7abcbb6f0b9c201fa.cd5b5cd07ba8baa8b7ec073805d06727b" />
+<Entry OldName="DisableContextMenuItems.Module.BlueForeColor" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cbd45a5881be662aafae53e5b695cee6c" />
+<Entry OldName="DisableContextMenuItems.Module.ApplicationName" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.ccf944fe1d464e58bc53c12824dcc78dd" />
+<Entry OldName="DisableContextMenuItems.Module.Version" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cc5df42a0e51eaca3b8be3700a7abe2ee" />
+<Entry OldName="DisableContextMenuItems.Module.Ver" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c3a67c4c752400930e92fbb32f386876c" />
+<Entry OldName="DisableContextMenuItems.Module.ShortApplicationTitle" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.ca2c8a6f342145c5a8eef47d7a14e0ddc" />
+<Entry OldName="DisableContextMenuItems.Module.ApplicationTitle" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cd1454825edf17131cac006fb6608148d" />
+<Entry OldName="DisableContextMenuItems.Module.DownloadURL" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c48cd6360446479bc0298d900a21889d6" />
+<Entry OldName="DisableContextMenuItems.Module.HelpURL" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c86dfbf57f961c7bb492072e9d8ab7e23" />
+<Entry OldName="DisableContextMenuItems.Module.ProductWebpageURL" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c97f27bdf6474d1aaf1e0a982edd8d932" />
+<Entry OldName="DisableContextMenuItems.Module.BuyURL" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c710b540faf44f38e59aa901ec211a630" />
+<Entry OldName="DisableContextMenuItems.Module.VersionURL" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c3241193d284afc6ea966010944aa1261" />
+<Entry OldName="DisableContextMenuItems.Module.TipText" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c3315324d64fc04c1a546d5c55a5819e4" />
+<Entry OldName="DisableContextMenuItems.Module.SelectedLanguage" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.ca085dd51246bab739bfae65f05310b76" />
+<Entry OldName="DisableContextMenuItems.Module.args" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c784b5d4cf1811c57852156c057ad823d" />
+<Entry OldName="DisableContextMenuItems.Module._Modex64" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c98dec072a95ae32e04503e3ab1a41c44" />
+<Entry OldName="DisableContextMenuItems.NiceLine.components" NewName="DisableContextMenuItems.NiceLine.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.NiceLine._Caption" NewName="DisableContextMenuItems.NiceLine.cf6c727bdc8b6bda2e5a64d6d34cd891e" />
+<Entry OldName="DisableContextMenuItems.NiceLine._CaptionMarginSpace" NewName="DisableContextMenuItems.NiceLine.c9a45dbbf97140bfb2a29d69aaec8116b" />
+<Entry OldName="DisableContextMenuItems.NiceLine._CaptionPadding" NewName="DisableContextMenuItems.NiceLine.cea95bdd4f41a26a4e61f160d2fcc09ca" />
+<Entry OldName="DisableContextMenuItems.NiceLine._LineVerticalAlign" NewName="DisableContextMenuItems.NiceLine.cf2db1f6179087b11f29da87b62f9b543" />
+<Entry OldName="DisableContextMenuItems.NiceLine._CaptionOrizontalAlign" NewName="DisableContextMenuItems.NiceLine.cbb79ba50f9a039a4048e14192023f7f0" />
+<Entry OldName="DisableContextMenuItems.OwnerDrawnComboBox.&lt;DropDownBorderColor&gt;k__BackingField" NewName="DisableContextMenuItems.OwnerDrawnComboBox.cf10a02d839fac47ab665636c53e472b0" />
+<Entry OldName="DisableContextMenuItems.OwnerDrawnComboBox.&lt;DropDownBackColor&gt;k__BackingField" NewName="DisableContextMenuItems.OwnerDrawnComboBox.c973b7201a8886fa3303a03becc746d07" />
+<Entry OldName="DisableContextMenuItems.ResFlags.resourceMan" NewName="A.c0fe792fda8bb750702fca34f9558088d.ce0a5796ed06cf5db7b3ed5fae07ec299" />
+<Entry OldName="DisableContextMenuItems.ResFlags.resourceCulture" NewName="A.c0fe792fda8bb750702fca34f9558088d.cbedd5026030c8e3dfd4d9ab99fe9cce8" />
+<Entry OldName="DisableContextMenuItems.ResRegister.resourceMan" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.ce0a5796ed06cf5db7b3ed5fae07ec299" />
+<Entry OldName="DisableContextMenuItems.ResRegister.resourceCulture" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.cbedd5026030c8e3dfd4d9ab99fe9cce8" />
+<Entry OldName="DisableContextMenuItems.TranslateHelper.rm" NewName="A.c79f39ecf3792462e7405d60020b1dd22.c7b4d799905a2f95bea2047340801379c" />
+<Entry OldName="DisableContextMenuItems.TranslateHelper.rm2" NewName="A.c79f39ecf3792462e7405d60020b1dd22.cb166d522f71f6312b1d082f6acadf945" />
+<Entry OldName="DisableContextMenuItems.ucTextProgressBar.WmPaint" NewName="DisableContextMenuItems.ucTextProgressBar.c30d82068374d193a613d3f72039fd688" />
+<Entry OldName="DisableContextMenuItems.ucTextProgressBar.components" NewName="DisableContextMenuItems.ucTextProgressBar.c84f27b95fcbb5f8ee5730ada0ac9adce" />
+<Entry OldName="DisableContextMenuItems.UpdateHelper.bwCheckVersion" NewName="DisableContextMenuItems.UpdateHelper.cbe24662fb0812a4ae08c09e486a331a7" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.resourceMan" NewName="A.c301ed454e198577c787ac72ddc12441f.ce0a5796ed06cf5db7b3ed5fae07ec299" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.resourceCulture" NewName="A.c301ed454e198577c787ac72ddc12441f.cbedd5026030c8e3dfd4d9ab99fe9cce8" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper..ctor()" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004..ctor()" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper..cctor()" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004..cctor()" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c8b3f363d907ac10b4b416c57d8149fea(String c63f8568afe86d8c6b3629bde40d6c678, StringBuilder c8c797cbfeb014c29c89d354115077283, UInt32 c927ed23b377aa937223c01d9705caaea, UInt32&amp; c2585520943daf1a085457657d9f993ec, UInt32&amp; c029368d8064a5533534e2aae56a6bf2b, UInt32&amp; c20232ad7df5978b3957aac8e8a1ede1d, StringBuilder c9817d026c26e8876938b09b929f0d848, UInt32 c69631f9e2b1fb95dd4f1f3282732238f)" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.DisplayContextMenu()" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c8191b3fd11f9e29647805dae2dbc49b2()" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.HideContextMenu()" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c0b40aef91610201fae6c2f5242b55143()" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.WriteTest()" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c918af6d48adb481b68ba7bc5f7fd95a5()" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper.ParseDate(String datestr)" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004.c61327874f0cee46ca51140f718371ae2(String c33f875deaac857fa14b953d06d740a4f)" />
+<Entry OldName="DisableContextMenuItems.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="DisableContextMenuItems.CustomForm.c8b5fee430117763318d020b7d377dd1c(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.CustomForm.InitializeComponent()" NewName="DisableContextMenuItems.CustomForm.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel.ucAmount_MouseDown(Object sender, MouseEventArgs e)" NewName="DisableContextMenuItems.CustomTextBoxLabel.ccad1e25391da5c22450db48fadb35caf(Object c24d1f638fa65a079614de3a74588c1af, MouseEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel.ucAmount_Leave(Object sender, EventArgs e)" NewName="DisableContextMenuItems.CustomTextBoxLabel.cc7fc09367b0eb8bea5788b9ede1dbca8(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.CustomTextBoxLabel.InitializeComponent()" NewName="DisableContextMenuItems.CustomTextBoxLabel.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper..ctor()" NewName="A.c9c30723be466d34f2d0ca956944de283..ctor()" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper.SetupDownloadMenuItems(ToolStripMenuItem tsiDownload)" NewName="A.c9c30723be466d34f2d0ca956944de283.c9f6d5e7b2e9395267c30ffa527402408(ToolStripMenuItem c3c50fa6c2139edf0f2009dada08c61a8)" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper.tsi_Click(Object sender, EventArgs e)" NewName="A.c9c30723be466d34f2d0ca956944de283.c881c18eb9107d3d3b12e34bc333ce06d(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.ExceptionHandlersHelper..ctor()" NewName="A.cd613f1d675f44f1649148dafc97daf84..ctor()" />
+<Entry OldName="DisableContextMenuItems.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.cd613f1d675f44f1649148dafc97daf84.c8d7726bfb76d85be8211145350c76d71()" />
+<Entry OldName="DisableContextMenuItems.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.cd613f1d675f44f1649148dafc97daf84.c9a8615f877e41fa820435c8347c46986(Object c24d1f638fa65a079614de3a74588c1af, UnhandledExceptionEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.cd613f1d675f44f1649148dafc97daf84.c4ede62b2bb79f59f58f2ee43df38254f(Object c24d1f638fa65a079614de3a74588c1af, ThreadExceptionEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAbout.cfb7bdd36926f8419a4e91feae8832ac1(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAbout.cd8512cf1e83532ac1d0d9e1f98e0337b(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="DisableContextMenuItems.frmAbout.c83d71601f40d1dd0a03abeb7fb1ae5c1(Object c24d1f638fa65a079614de3a74588c1af, LinkLabelLinkClickedEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="DisableContextMenuItems.frmAbout.ce443e1be6afc17e8bd4ce8e862e16b3f(Object c24d1f638fa65a079614de3a74588c1af, LinkLabelLinkClickedEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAbout.cccb222bdcb07288ecdd4cbe3ad365d05(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAbout.c1ac4936c164ca48470604a86b066c775(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAbout.InitializeComponent()" NewName="DisableContextMenuItems.frmAbout.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.btnOK_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAdeia.cf46da4f06005233a657542d570bd9ce9(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.btnExit_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAdeia.c0b50a7035b38cd4d360044dc65be7182(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.frmAdeia_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmAdeia.c24bda76a839f5d2cfc1820596328d565(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmAdeia.InitializeComponent()" NewName="DisableContextMenuItems.frmAdeia.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.btnCancel_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmChangePassword.ca8fc3e48c637602d0153097d092fffab(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.btnOK_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmChangePassword.cf46da4f06005233a657542d570bd9ce9(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.frmEncryptionPassword_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmChangePassword.c6585f41f6e2b176f4bf4d474165c0365(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmChangePassword.InitializeComponent()" NewName="DisableContextMenuItems.frmChangePassword.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmDownloadUpdate.c839a5f07b39c27c0cc6741169771bdb0(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="DisableContextMenuItems.frmDownloadUpdate.c0c7e3c0014bb7d68bd288ecec70361f1(Object c24d1f638fa65a079614de3a74588c1af, AsyncCompletedEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="DisableContextMenuItems.frmDownloadUpdate.c77b3a3018892c26e099cce727ef32ce2(Object c24d1f638fa65a079614de3a74588c1af, DownloadProgressChangedEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmDownloadUpdate.cc3da957839fee9065b9cd7dc85972452(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmDownloadUpdate.InitializeComponent()" NewName="DisableContextMenuItems.frmDownloadUpdate.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.btnCancel_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmEncryptionPassword.ca8fc3e48c637602d0153097d092fffab(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.btnOK_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmEncryptionPassword.cf46da4f06005233a657542d570bd9ce9(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.frmEncryptionPassword_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmEncryptionPassword.c6585f41f6e2b176f4bf4d474165c0365(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.frmEncryptionPassword_FormClosing(Object sender, FormClosingEventArgs e)" NewName="DisableContextMenuItems.frmEncryptionPassword.ca73121e7ca7fe552c0421a723cf6e8eb(Object c24d1f638fa65a079614de3a74588c1af, FormClosingEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmEncryptionPassword.InitializeComponent()" NewName="DisableContextMenuItems.frmEncryptionPassword.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmError.cd8512cf1e83532ac1d0d9e1f98e0337b(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmError.InitializeComponent()" NewName="DisableContextMenuItems.frmError.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmLanguage.cf46da4f06005233a657542d570bd9ce9(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmLanguage.c8459852adc307bb2cf823b5b2565ff2a(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmLanguage.InitializeComponent()" NewName="DisableContextMenuItems.frmLanguage.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c58f86fea48d68682dc1a838d22f79e17(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.SetupOnLoad()" NewName="DisableContextMenuItems.frmMain.ca6db091b2a24faee0695c9a2ca75c83f()" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnSelectAll_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c7e8c079177ef154409bb638cd12552a5(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnUnselectAll_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.ca2410d7273423fe76034d0feafd407e5(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnInvertSelection_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c4d31d8115783ee7286698224a46d5dba(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnAddCurrentUser_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c7a3f1100ed0d59321bc95e1c2c22ec6a(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.button2_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cbb4f55df95a25cc6759c2f32ff1039f1(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnSelAll_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.ceb756109bfb1cfcbff00f2adb14bebae(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnUnSelAll_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cd9041f1b245385dbcf767ae9d7c75dcd(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnInvSel_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cd1d5b6c28d41d26b2111e6f67f27934a(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.chkSelectUsers_CheckedChanged(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c5e0f8c4ab826bc16112a67cfc5e6ff87(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.btnOK_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cf46da4f06005233a657542d570bd9ce9(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.helpUsersManualToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cd06c2c8d413aa533f2c1d1de6da0ef24(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.pleaseDonateToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.caf2c76b800021bb6369e490c94f792cb(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c5f444896ea7371b81157c068f0ad94fc(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c91f7f59451c559ac61bc631961077895(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.feedbackToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c0136def7e71a8ae4138cee4ade483aed(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cb18cbe9d9b6f6edf5e250b0bf78adab5(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.visit4dotsSoftwareWebpageToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c94d4a523f0cdb3e089d53161bd8d3f7a(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cd1660e39388ef3b97c103bf8b58e1c72(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c612a29681fd0337b47777068f34e2a8f(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnFacebookToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cef3813812c29df14b0bece03f5cb8a0e(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c4386b2bd4f167511f71355aa334784b0(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnGooglePlusToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c31d24c687a4b04995f14d2cd62bc6abe(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareOnLinkedinToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c857488e98ecb4e81ed5b2063e90b8ce2(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.shareWithEmailToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c20d0b8bf20fcf67f38ce13ab9760c0ad(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.AddLanguageMenuItems()" NewName="DisableContextMenuItems.frmMain.c8388c6f73ea244a0ee03b1bc8adecdb0()" />
+<Entry OldName="DisableContextMenuItems.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c59b30b3bc78ca61d674c0c54d9dd56f6(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.ChangeLanguage(String language_code)" NewName="DisableContextMenuItems.frmMain.cc075d650c3ad69a13970c82bea410c85(String c02c76d5c104d505e4728426960b539c8)" />
+<Entry OldName="DisableContextMenuItems.frmMain.SavePositionSize()" NewName="DisableContextMenuItems.frmMain.c3eb5f4660f37ed3c1c0a754e7ed9a17e()" />
+<Entry OldName="DisableContextMenuItems.frmMain.RepositionResize()" NewName="DisableContextMenuItems.frmMain.cc541aecb2b63846612dc57fe3a4bc2d2()" />
+<Entry OldName="DisableContextMenuItems.frmMain.requirePasswordToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c5ab19038e15a7f55f3c09d80dc1764f8(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.changePasswordToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c5cec0b56cdcf14b151a629b9568a7caa(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.timer1_Tick(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.ce4fe994ca88e6abd4acfe5de2bba6a7c(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.timer2_Tick(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cf73adab22e3c9ffd8ca71ee45009a73a(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.timer3_Tick(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.cef52823b08078db8c328e6f9152ecf84(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.buyApplicationToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c93d99df6853b577b5d82f256a5ee02d8(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.enterLicenseKeyToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmMain.c41ec7eb0a4fa58211583ad95c40672cd(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmMain.InitializeComponent()" NewName="DisableContextMenuItems.frmMain.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.frmPurchase_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.cd5ef8a75bc75a2d6521d4ad884b17b96(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnRegister_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.c1ac4936c164ca48470604a86b066c775(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.timContinue_Tick(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.ce7f4172e7a08837647f39d4deb26ffa8(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnClose_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.cd8512cf1e83532ac1d0d9e1f98e0337b(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnBuy_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.cccb222bdcb07288ecdd4cbe3ad365d05(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnRegister_Click_1(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.cd7953c37c01141896caa05ce381fe53b(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.btnExit_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmPurchase.c0b50a7035b38cd4d360044dc65be7182(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmPurchase.InitializeComponent()" NewName="DisableContextMenuItems.frmPurchase.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.frmSchedule_Load(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmSchedule.ce2d1740b9db817d0547b19dd9a6762d7(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.cmbSchedule_SelectedIndexChanged(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmSchedule.cbf315c897f8b956ab90c084823507cac(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.HideAll()" NewName="DisableContextMenuItems.frmSchedule.c164381fc36d3923bd71cc346bf558ba9()" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.button2_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmSchedule.cbb4f55df95a25cc6759c2f32ff1039f1(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.btnOK_Click(Object sender, EventArgs e)" NewName="DisableContextMenuItems.frmSchedule.cf46da4f06005233a657542d570bd9ce9(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.frmSchedule.InitializeComponent()" NewName="DisableContextMenuItems.frmSchedule.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.FuzzyMatch..ctor()" NewName="A.c71a38350edd5043c7a3c19a45032b48d..ctor()" />
+<Entry OldName="DisableContextMenuItems.FuzzyMatch.ExtractPreviousFuzzyMatch(String helpcolumn)" NewName="A.c71a38350edd5043c7a3c19a45032b48d.c0e98fabbf7e3ace69738e15a3459cc24(String cfad25554e7eeb0facfd7bf96839b2b07)" />
+<Entry OldName="DisableContextMenuItems.FuzzyMatch.SetFuzzyHelpColumnText(Int32 fuzzypercent, String helpcolumn)" NewName="A.c71a38350edd5043c7a3c19a45032b48d.c8ce287eb898f6f8886149dce53ff5f10(Int32 c7eabfaff8c574937e956659d0ec1797e, String cfad25554e7eeb0facfd7bf96839b2b07)" />
+<Entry OldName="DisableContextMenuItems.FuzzyMatch.IsFuzzyMatchForReport(String sNew, String sOld, Int32 percent_fuzzy_from, Int32 percent_fuzzy_to)" NewName="A.c71a38350edd5043c7a3c19a45032b48d.c3632687e8299c674a0b1ffdba7d63827(String ce462887cf5b655e22eba0e66c7deb813, String c10b8633f7963efa48d3c38b0a945ca6e, Int32 c137ad7a6bad7d222e15fec35d13e20cf, Int32 cab9b0283ee4c66c2f87b9b4c4889e037)" />
+<Entry OldName="DisableContextMenuItems.FuzzyMatch.IsFuzzyMatch(String sNew, String sOld, String helpcolumn)" NewName="A.c71a38350edd5043c7a3c19a45032b48d.c5d06059dcdde22642d6893cdfeb3676f(String ce462887cf5b655e22eba0e66c7deb813, String c10b8633f7963efa48d3c38b0a945ca6e, String cfad25554e7eeb0facfd7bf96839b2b07)" />
+<Entry OldName="DisableContextMenuItems.Levenshtein.Minimum(Int32 a, Int32 b, Int32 c)" NewName="DisableContextMenuItems.Levenshtein.cb47a552b51798caaae73aca57618d07b(Int32 c665936ebcf88874c2041ead763865b86, Int32 cf2ae5af5dc2f02c15fcc4ffe8d9076bc, Int32 c6c8785f3c7cb6208d686d54c8bc878ee)" />
+<Entry OldName="DisableContextMenuItems.ImageComboBox..ctor()" NewName="A.c653142a028827f3b6d5c8760fe9ea5e4..ctor()" />
+<Entry OldName="DisableContextMenuItems.ImageComboBox.get_ImageList()" NewName="A.c653142a028827f3b6d5c8760fe9ea5e4.get_c50913ad10f6fe8523d5d86518fe14193()" />
+<Entry OldName="DisableContextMenuItems.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c653142a028827f3b6d5c8760fe9ea5e4.set_c50913ad10f6fe8523d5d86518fe14193(ImageList c95c51c12b9539d1972485c60f3bd666b)" />
+<Entry OldName="DisableContextMenuItems.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c653142a028827f3b6d5c8760fe9ea5e4.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem..ctor()" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d..ctor()" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem..ctor(String text)" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d..ctor(String ca3133a4aa1a648a39cedcc177fafbd35)" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d..ctor(String ca3133a4aa1a648a39cedcc177fafbd35, Int32 c50f823a0c22fc0b20a7dc0e01ceed855)" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem.get_Text()" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.get_c6d4b0161e934f48ebc8c6b3cc8c3fbee()" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem.set_Text(String value)" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.set_c6d4b0161e934f48ebc8c6b3cc8c3fbee(String c95c51c12b9539d1972485c60f3bd666b)" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem.get_ImageIndex()" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.get_c3a90103d06674fc8874e9f7a995dc34a()" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.set_c3a90103d06674fc8874e9f7a995dc34a(Int32 c95c51c12b9539d1972485c60f3bd666b)" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem.ToString()" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d.ToString()" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper..ctor()" NewName="A.c40513dd4574957507f109fb91d8574c4..ctor()" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper..cctor()" NewName="A.c40513dd4574957507f109fb91d8574c4..cctor()" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c40513dd4574957507f109fb91d8574c4.c8b3f363d907ac10b4b416c57d8149fea(String c63f8568afe86d8c6b3629bde40d6c678, StringBuilder c8c797cbfeb014c29c89d354115077283, UInt32 c927ed23b377aa937223c01d9705caaea, UInt32&amp; c2585520943daf1a085457657d9f993ec, UInt32&amp; c029368d8064a5533534e2aae56a6bf2b, UInt32&amp; c20232ad7df5978b3957aac8e8a1ede1d, StringBuilder c9817d026c26e8876938b09b929f0d848, UInt32 c69631f9e2b1fb95dd4f1f3282732238f)" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper.GeneratePreviewItems()" NewName="A.c40513dd4574957507f109fb91d8574c4.c889829367356895e5ca47b0535ce1fde()" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper.ParseDate(String datestr)" NewName="A.c40513dd4574957507f109fb91d8574c4.c61327874f0cee46ca51140f718371ae2(String c33f875deaac857fa14b953d06d740a4f)" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper..ctor()" NewName="A.c09c92078107d845cf2b3609853cb2aef..ctor()" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper..cctor()" NewName="A.c09c92078107d845cf2b3609853cb2aef..cctor()" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c09c92078107d845cf2b3609853cb2aef.c8b3f363d907ac10b4b416c57d8149fea(String c63f8568afe86d8c6b3629bde40d6c678, StringBuilder c8c797cbfeb014c29c89d354115077283, UInt32 c927ed23b377aa937223c01d9705caaea, UInt32&amp; c2585520943daf1a085457657d9f993ec, UInt32&amp; c029368d8064a5533534e2aae56a6bf2b, UInt32&amp; c20232ad7df5978b3957aac8e8a1ede1d, StringBuilder c9817d026c26e8876938b09b929f0d848, UInt32 c69631f9e2b1fb95dd4f1f3282732238f)" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper.AnalyzeSearch()" NewName="A.c09c92078107d845cf2b3609853cb2aef.c004503d27c3ce52e85e967bdfc9103af()" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper.Bin2Hex(Byte[] bin)" NewName="A.c09c92078107d845cf2b3609853cb2aef.c7d3bdd1f5da2ebf641886541ea6d4589(Byte[] ca5983266cec77ffa56b5657b718669c6)" />
+<Entry OldName="DisableContextMenuItems.MiscHelper..ctor()" NewName="A.c07b7098132ed80b7abcbb6f0b9c201fa..ctor()" />
+<Entry OldName="DisableContextMenuItems.MiscHelper..cctor()" NewName="A.c07b7098132ed80b7abcbb6f0b9c201fa..cctor()" />
+<Entry OldName="DisableContextMenuItems.MiscHelper.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c07b7098132ed80b7abcbb6f0b9c201fa.c3b5281163a56d937eb7bc564f0ed92ac(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.MiscHelper.ParseDate(String datestr)" NewName="A.c07b7098132ed80b7abcbb6f0b9c201fa.c61327874f0cee46ca51140f718371ae2(String c33f875deaac857fa14b953d06d740a4f)" />
+<Entry OldName="DisableContextMenuItems.Module..ctor()" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd..ctor()" />
+<Entry OldName="DisableContextMenuItems.Module..cctor()" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd..cctor()" />
+<Entry OldName="DisableContextMenuItems.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cdb8d263400cd7a0532589e2d86125221(IntPtr c17115cf9e4268cdbd4931be17c9fbc95, Int32 cc9acc2ab8b0ba0fc27463895fe1bd1bb, Int32 c8829549bed224c6cfd8a1f03d0105688, Int32 c93ce0943d182aaf7db5afb367175aede)" />
+<Entry OldName="DisableContextMenuItems.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c14f51e4303b8d3056ddb7ed787198e79(IntPtr c0902ba0af40e51669488c6cd76d93463)" />
+<Entry OldName="DisableContextMenuItems.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c15d971ce88c2a81b1a2c2fd9d1820cc2(Int32 cef17fd2e6556bee479479afa14bfd5ab)" />
+<Entry OldName="DisableContextMenuItems.Module.IsLegalFilename(String name)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cb6b82c1b710495c0ceee0829336ec2aa(String cbeb1c2ec9efc1788fcef3d07e17c6dff)" />
+<Entry OldName="DisableContextMenuItems.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c9a00241369bf1297de0cc7820496abb4(String cd733e722a23563c6e76d506c521f68bd, String ca29091610a454c34aff075c194532880)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowMessage(String msg)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c4859938ac49d5698c68ad87760d77c70(String cb739355b3f2401a8fa1b36052e2f804d)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cb59172f70d693ce62309f7265772249f(String cb739355b3f2401a8fa1b36052e2f804d, String c05d752d5b37925e56386c0597fb3d6d3)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowError(Exception ex)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c1054bf00e58407aff3790c53d5511a29(Exception c96b00dfcdbbcd57e18051e30f83ead50)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowError(String msg)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c1054bf00e58407aff3790c53d5511a29(String cb739355b3f2401a8fa1b36052e2f804d)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowError(String msg, Exception ex)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c1054bf00e58407aff3790c53d5511a29(String cb739355b3f2401a8fa1b36052e2f804d, Exception c96b00dfcdbbcd57e18051e30f83ead50)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowError(String msg, String exstr)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c1054bf00e58407aff3790c53d5511a29(String cb739355b3f2401a8fa1b36052e2f804d, String c713ab338b706d3148192f1d0e7b2dba9)" />
+<Entry OldName="DisableContextMenuItems.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c3b5281163a56d937eb7bc564f0ed92ac(Object c24d1f638fa65a079614de3a74588c1af, EventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c9f4cc5c81bd2070dc9c98a0833610083(String cb739355b3f2401a8fa1b36052e2f804d, String c05d752d5b37925e56386c0597fb3d6d3)" />
+<Entry OldName="DisableContextMenuItems.Module.get_Modex64()" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.get_cb7ba0aeed7fdf75bd62cd1a59d5d0714()" />
+<Entry OldName="DisableContextMenuItems.Module.DownloadPage(String uri)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c6207db41c5790f96cb84a17232545178(String cc0dec5694c4eb4416456a4fa97c5e89f)" />
+<Entry OldName="DisableContextMenuItems.Module.HexConverter(Color c)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.caf04915d6ec104b0b7ab266d0fa439ee(Color c6c8785f3c7cb6208d686d54c8bc878ee)" />
+<Entry OldName="DisableContextMenuItems.Module.DecimalToString(Decimal dec)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c251e76bfe33804b2e9b645a295645a5d(Decimal c3bc5efc8bc18e6945c4efd1647d03a07)" />
+<Entry OldName="DisableContextMenuItems.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c251e76bfe33804b2e9b645a295645a5d(Decimal c3bc5efc8bc18e6945c4efd1647d03a07, Int32 c793e5fdf2d5dac9fb72a845d87a6bc71)" />
+<Entry OldName="DisableContextMenuItems.Module.StringToDecimal(String str)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.cbc2f41c7f98823d6ddf26f32f9a9a84a(String c94c1d2729962d329825813ad938ed989)" />
+<Entry OldName="DisableContextMenuItems.Module.get_IsWindows64Bit()" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.get_c458da682dcbfe0cef82d4ae996334987()" />
+<Entry OldName="DisableContextMenuItems.Module.RunAdminAction(String args)" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd.c3fd5d9817436625dd0683a447f723ecc(String c784b5d4cf1811c57852156c057ad823d)" />
+<Entry OldName="DisableContextMenuItems.NiceLine.InitializeComponent()" NewName="DisableContextMenuItems.NiceLine.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.OwnerDrawnComboBox.InitializeComponent()" NewName="DisableContextMenuItems.OwnerDrawnComboBox.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.Program.Main(String[] args)" NewName="A.c7530c7b49f20d307acb4c610693c6ebe.c3f7b14c69e4c923cda7ba5d53d7b8b1a(String[] c784b5d4cf1811c57852156c057ad823d)" />
+<Entry OldName="DisableContextMenuItems.RegistryHelper..ctor()" NewName="A.c8a7861e737ea994fbf1ce2fb71f8e552..ctor()" />
+<Entry OldName="DisableContextMenuItems.RegistryHelper.GetRegistryKeyValue(String regpath, String key, Boolean lm)" NewName="A.c8a7861e737ea994fbf1ce2fb71f8e552.c02066fe676a66886c43ef95a3bdf8b0f(String c772e6ed938e03e37439783d45f2aef28, String c63b587e7a1107749611be9329cb45fc1, Boolean c01d68e0a84e1ed09eedecc929a12862c)" />
+<Entry OldName="DisableContextMenuItems.RegistryHelper.GetAppRegistryKeyValue(String key, Boolean lm)" NewName="A.c8a7861e737ea994fbf1ce2fb71f8e552.ca93277a8beb5693979052657cb7ad6b5(String c63b587e7a1107749611be9329cb45fc1, Boolean c01d68e0a84e1ed09eedecc929a12862c)" />
+<Entry OldName="DisableContextMenuItems.RegistryHelper.GetAppRegistryKeyValue(String app, String key, Boolean lm)" NewName="A.c8a7861e737ea994fbf1ce2fb71f8e552.ca93277a8beb5693979052657cb7ad6b5(String c389f0b61a7c85b93093382040e227ac5, String c63b587e7a1107749611be9329cb45fc1, Boolean c01d68e0a84e1ed09eedecc929a12862c)" />
+<Entry OldName="DisableContextMenuItems.RegistryHelper.SetAppRegistryKeyValue(String key, String keyvalue, Boolean lm)" NewName="A.c8a7861e737ea994fbf1ce2fb71f8e552.cb0994e5239af00348411a5471fdab8bf(String c63b587e7a1107749611be9329cb45fc1, String ce82a3ba6b8ed205713349a2032258a7b, Boolean c01d68e0a84e1ed09eedecc929a12862c)" />
+<Entry OldName="DisableContextMenuItems.ResFlags..ctor()" NewName="A.c0fe792fda8bb750702fca34f9558088d..ctor()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_ResourceManager()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_ResourceManager()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_Culture()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_Culture()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.set_Culture(CultureInfo value)" NewName="A.c0fe792fda8bb750702fca34f9558088d.set_Culture(CultureInfo value)" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_albania()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_albania()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_belarus()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_belarus()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_bulgaria()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_bulgaria()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_china()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_china()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_croatia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_croatia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_czech_republic()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_czech_republic()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_denmark()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_denmark()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_estonia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_estonia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_finland()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_finland()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_france()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_france()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_georgia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_georgia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_germany()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_germany()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_great_britain()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_great_britain()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_greece()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_greece()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_hungary()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_hungary()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_iceland()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_iceland()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_india()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_india()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_indonesia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_indonesia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_iran()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_iran()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_ireland()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_ireland()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_israel()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_israel()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_italy()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_italy()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_japan()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_japan()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_kenya()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_kenya()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_latvia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_latvia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_lithuania()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_lithuania()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_netherlands()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_netherlands()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_norway()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_norway()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_pakistan()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_pakistan()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_philippines()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_philippines()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_poland()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_poland()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_portugal()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_portugal()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_romania()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_romania()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_russia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_russia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_saudi_arabia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_saudi_arabia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_serbia_montenegro()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_serbia_montenegro()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_slovakia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_slovakia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_slovenia()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_slovenia()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_south_africa()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_south_africa()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_south_korea()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_south_korea()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_spain()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_spain()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_sweden()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_sweden()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_taiwan()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_taiwan()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_thailand()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_thailand()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_turkey()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_turkey()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_ukraine()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_ukraine()" />
+<Entry OldName="DisableContextMenuItems.ResFlags.get_flag_vietnam()" NewName="A.c0fe792fda8bb750702fca34f9558088d.get_flag_vietnam()" />
+<Entry OldName="DisableContextMenuItems.ResRegister..ctor()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be..ctor()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_ResourceManager()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_ResourceManager()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Culture()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Culture()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.set_Culture(CultureInfo value)" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.set_Culture(CultureInfo value)" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Add_new_search_item_to_project()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Add_new_search_item_to_project()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Continue_activated_search_()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Continue_activated_search_()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Direct_search_started()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Direct_search_started()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Edit_4dots_Project()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Edit_4dots_Project()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Erroneous_search_2()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Erroneous_search_2()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Error_1()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Error_1()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Error_12()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Error_12()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Error_4()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Error_4()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Import_search_result()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Import_search_result()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Init_Project()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Init_Project()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_MessageTitle()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_MessageTitle()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_MessageTitle7()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_MessageTitle7()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_MessageTitle8()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_MessageTitle8()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Search_duration_process()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Search_duration_process()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_String1()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_String1()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Uniform_process()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Uniform_process()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Αλλαγή_Ονόματος()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Αλλαγή_Ονόματος()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Αλλαγή_στοιχείων_εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Αλλαγή_στοιχείων_εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Αλλαγή_Φίλτρου_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Αλλαγή_Φίλτρου_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Ανανέωση_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Ανανέωση_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Εισαγωγή_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Εισαγωγή_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Εναλλαγή_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Εναλλαγή_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Καθορισμός_Ονόματος()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Καθορισμός_Ονόματος()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Μορφοποίηση_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Μορφοποίηση_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Νέα_Εικόνα()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Νέα_Εικόνα()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Παράμετροι_Μετρήσεως_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Παράμετροι_Μετρήσεως_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Περιγραφή_Ονόματος()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Περιγραφή_Ονόματος()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Πηγή_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Πηγή_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Προβολή_Εικόνας_1()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Προβολή_Εικόνας_1()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Προβολή_Εικόνων()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Προβολή_Εικόνων()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Σφάλμα_120()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Σφάλμα_120()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Σφάλμα_1201()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Σφάλμα_1201()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Υπολογισμός_Επιφάνειας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Υπολογισμός_Επιφάνειας()" />
+<Entry OldName="DisableContextMenuItems.ResRegister.get_Φίλτρο_Εικόνας()" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be.get_Φίλτρο_Εικόνας()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper..ctor()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a..ctor()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.get_ShareURL()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.get_c412d77ba61c9fed74b8983a7f0b5d1b5()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.get_ShareText()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.get_c96790dd9c583987fdcf4f2bfceba25d2()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.ShareFacebook()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.c9f3157f6600b8a173bf67a0958f2a1ed()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.ShareTwitter()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.c6f2698681ea0820ea63558329b222629()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.ShareGooglePlus()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.ca15f862d47c6a6a3c826e21d2b329b3c()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.ShareLinkedIn()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.caa2f7be35570be4d31849b1a28800a57()" />
+<Entry OldName="DisableContextMenuItems.ShareHelper.ShareEmail()" NewName="A.c59912db4eb74f8105dd33ef32f7a809a.cc138f2ec46c9fae34b4cc22ac4515d76()" />
+<Entry OldName="DisableContextMenuItems.TranslateHelper..ctor()" NewName="A.c79f39ecf3792462e7405d60020b1dd22..ctor()" />
+<Entry OldName="DisableContextMenuItems.TranslateHelper..cctor()" NewName="A.c79f39ecf3792462e7405d60020b1dd22..cctor()" />
+<Entry OldName="DisableContextMenuItems.TranslateHelper.Translate(String str)" NewName="A.c79f39ecf3792462e7405d60020b1dd22.c9a848aaf387d7e3f70378d47f0aad3b9(String c94c1d2729962d329825813ad938ed989)" />
+<Entry OldName="DisableContextMenuItems.ucTextProgressBar.InitializeComponent()" NewName="DisableContextMenuItems.ucTextProgressBar.ca124944ceac5b8f5597b1679e97cbc82()" />
+<Entry OldName="DisableContextMenuItems.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="DisableContextMenuItems.UpdateHelper.ca664096d50f764094dddce4586e04653(Object c24d1f638fa65a079614de3a74588c1af, ProgressChangedEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="DisableContextMenuItems.UpdateHelper.c5c37375f8f59e90324a8c64cb8c246fa(Object c24d1f638fa65a079614de3a74588c1af, RunWorkerCompletedEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="DisableContextMenuItems.UpdateHelper.c7269a216209960359f078bd0c569c025(Object c24d1f638fa65a079614de3a74588c1af, DoWorkEventArgs c952ebcf461ab3328c1062d2083de7f24)" />
+<Entry OldName="DisableContextMenuItems.XOREncrypter..ctor()" NewName="A.c937f33d3af0bc83cf1841a340a43cc6b..ctor()" />
+<Entry OldName="DisableContextMenuItems.XOREncrypter.EncryptDecrypt(String toEncrypt)" NewName="A.c937f33d3af0bc83cf1841a340a43cc6b.cd5d2d668c650e1cb7c009fac03f08a6c(String cad012308135b9c33adc7f0ef3e145675)" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources..ctor()" NewName="A.c301ed454e198577c787ac72ddc12441f..ctor()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_ResourceManager()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_ResourceManager()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_Culture()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_Culture()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c301ed454e198577c787ac72ddc12441f.set_Culture(CultureInfo value)" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get__4dots_logo_official()" NewName="A.c301ed454e198577c787ac72ddc12441f.get__4dots_logo_official()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.c301ed454e198577c787ac72ddc12441f.get__4dots_logo_official_icon()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_about()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_about()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_add()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_add()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_add1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_add1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_arrow_down_green()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_arrow_down_green()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_arrow_left_blue()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_arrow_left_blue()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_arrow_right_blue()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_arrow_right_blue()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_arrow_up_green()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_arrow_up_green()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_brush2()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_brush2()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_brush4()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_brush4()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_bullet_ball_glass_blue()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_bullet_ball_glass_green()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_bullet_ball_glass_red()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_bullet_ball_glass_yellow()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_cart_icon_b_24()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_cart_icon_b_24()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_check()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_check()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_copy()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_copy()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_cut()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_cut()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_delete()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_delete()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_delete1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_delete1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_disk_blue()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_disk_blue()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_document_into()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_document_into()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_document_preferences()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_document_preferences()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_earth()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_earth()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_edit()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_edit()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_exit()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_exit()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_exit1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_exit1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_facebook_24()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_facebook_24()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_facebook_32()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_facebook_32()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_flash()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_flash()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_flash1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_flash1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_folder()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_folder()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_folder_add()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_folder_add()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_folder1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_folder1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_googleplus_24()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_googleplus_24()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_help2()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_help2()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_import1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_import1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_information()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_information()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_key1()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_key1()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_linkedin_24()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_linkedin_24()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_mail()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_mail()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_navigate_beginning()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_navigate_beginning()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_navigate_end()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_navigate_end()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_preferences()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_preferences()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_right_click_menu_items_disabler_48()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_right_click_menu_items_disabler_48()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_twitter_24()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_twitter_24()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_twitter_32()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_twitter_32()" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources.get_warning()" NewName="A.c301ed454e198577c787ac72ddc12441f.get_warning()" />
+<Entry OldName="DisableContextMenuItems.ContextMenuHelper" NewName="A.cbd4b4e1d40d9aa434abe67f9bf766004" />
+<Entry OldName="DisableContextMenuItems.DownloadSuggestionsHelper" NewName="A.c9c30723be466d34f2d0ca956944de283" />
+<Entry OldName="DisableContextMenuItems.ExceptionHandlersHelper" NewName="A.cd613f1d675f44f1649148dafc97daf84" />
+<Entry OldName="DisableContextMenuItems.FuzzyMatch" NewName="A.c71a38350edd5043c7a3c19a45032b48d" />
+<Entry OldName="DisableContextMenuItems.ImageComboBox" NewName="A.c653142a028827f3b6d5c8760fe9ea5e4" />
+<Entry OldName="DisableContextMenuItems.ComboBoxExItem" NewName="A.cf96609f1c0e271fe4390f0c530d69c4d" />
+<Entry OldName="DisableContextMenuItems.ImagesViewHelper" NewName="A.c40513dd4574957507f109fb91d8574c4" />
+<Entry OldName="DisableContextMenuItems.InputModeHelper" NewName="A.c09c92078107d845cf2b3609853cb2aef" />
+<Entry OldName="DisableContextMenuItems.MiscHelper" NewName="A.c07b7098132ed80b7abcbb6f0b9c201fa" />
+<Entry OldName="DisableContextMenuItems.Module" NewName="A.c11ff4bd8aeaa7407a8cf2be722b1f9cd" />
+<Entry OldName="DisableContextMenuItems.Program" NewName="A.c7530c7b49f20d307acb4c610693c6ebe" />
+<Entry OldName="DisableContextMenuItems.RegistryHelper" NewName="A.c8a7861e737ea994fbf1ce2fb71f8e552" />
+<Entry OldName="DisableContextMenuItems.ResFlags" NewName="A.c0fe792fda8bb750702fca34f9558088d" />
+<Entry OldName="DisableContextMenuItems.ResRegister" NewName="A.c7c6ebdb1c713c0d06b9259c5c5ebf9be" />
+<Entry OldName="DisableContextMenuItems.ShareHelper" NewName="A.c59912db4eb74f8105dd33ef32f7a809a" />
+<Entry OldName="DisableContextMenuItems.TranslateHelper" NewName="A.c79f39ecf3792462e7405d60020b1dd22" />
+<Entry OldName="DisableContextMenuItems.XOREncrypter" NewName="A.c937f33d3af0bc83cf1841a340a43cc6b" />
+<Entry OldName="DisableContextMenuItems.Properties.Resources" NewName="A.c301ed454e198577c787ac72ddc12441f" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ContextMenuHelper.cs" NewName="File0" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomForm.cs" NewName="File1" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomForm.designer.cs" NewName="File2" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomTextBoxLabel.cs" NewName="File3" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomTextBoxLabel.designer.cs" NewName="File4" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\DownloadSuggestionsHelper.cs" NewName="File5" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ExceptionHandlersHelper.cs" NewName="File6" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAbout2.cs" NewName="File7" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAbout2.designer.cs" NewName="File8" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAdeia.cs" NewName="File9" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAdeia.designer.cs" NewName="File10" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmChangePassword.cs" NewName="File11" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmChangePassword.Designer.cs" NewName="File12" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmDownloadUpdate.cs" NewName="File13" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmDownloadUpdate.Designer.cs" NewName="File14" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmEncryptionPassword.cs" NewName="File15" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmEncryptionPassword.Designer.cs" NewName="File16" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmError.cs" NewName="File17" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmError.Designer.cs" NewName="File18" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmLanguage.cs" NewName="File19" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmLanguage.designer.cs" NewName="File20" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmMain.cs" NewName="File21" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmMain.Designer.cs" NewName="File22" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmPurchase.cs" NewName="File23" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmPurchase.Designer.cs" NewName="File24" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmSchedule.cs" NewName="File25" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmSchedule.Designer.cs" NewName="File26" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\FuzzyMatchResult.cs" NewName="File27" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ImageComboBox.cs" NewName="File28" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ImagesViewHelper.cs" NewName="File29" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\InputModeHelper.cs" NewName="File30" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\MiscHelper.cs" NewName="File31" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Module.cs" NewName="File32" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\NiceLine.cs" NewName="File33" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\OwnerDrawnComboBox.cs" NewName="File34" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Program.cs" NewName="File35" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\RegistryHelper.cs" NewName="File36" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ResFlags.Designer.cs" NewName="File37" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ResRegister.Designer.cs" NewName="File38" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ShareHelper.cs" NewName="File39" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\TranslateHelper.cs" NewName="File40" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ucTextProgressBar.cs" NewName="File41" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ucTextProgressBar.Designer.cs" NewName="File42" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\UpdateHelper.cs" NewName="File43" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\URLLinkLabel.cs" NewName="File44" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\XOREncrypter.cs" NewName="File45" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Properties\Resources.Designer.cs" NewName="File46" />
+<Entry OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Properties\Settings.Designer.cs" NewName="File47" />
+<Assembly Name="DisableContextMenuItems"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="DisableContextMenuItems.ContextMenuHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663301" Name="DisplayContextMenu" Variables="sfilecontents;init_filepath;txt;exf;sr;e;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;myba;data;key;iv;byteData;enc;tdes;ict;ex;elements;reg_key;email;expired;myvl;kx;ky;userkey;encrypted_kleidi_xristi;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;fm;ex_l3;" ParamCnt="0" />
+<Method Token="100663302" Name="HideContextMenu" Variables="kx;ky;sfilecontents;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;myar;elements;reg_key;email;dtfrom;dtlast;expired;ver;newversion;iver;icurver;le;lp;f;datfrom;" ParamCnt="0" />
+<Method Token="100663303" Name="WriteTest" Variables="sfilecontents;data;key;iv;byteData;enc;tdes;ict;ex;sw;" ParamCnt="0" />
+<Method Token="100663304" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Field Token="67108865" Name="DtFrom" />
+<Field Token="67108866" Name="DtLast" />
+<Field Token="67108867" Name="DtTo" />
+<Field Token="67108868" Name="Ve" />
+<Type Token="33554436" Name="DisableContextMenuItems.CustomForm" />
+<Method Token="100663306" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663307" Name="OnResize" Variables="this;e;g;x;y;lgBrush;" ParamCnt="2" />
+<Method Token="100663308" Name="OnPaintBackground" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663309" Name="OnLoad" Variables="this;e;co;ex;" ParamCnt="2" />
+<Method Token="100663310" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663311" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663312" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108869" Name="LoadComplete" />
+<Field Token="67108870" Name="BackGroundImg" />
+<Field Token="67108871" Name="GradientBackground" />
+<Field Token="67108872" Name="components" />
+<Type Token="33554437" Name="DisableContextMenuItems.CustomTextBoxLabel" />
+<Method Token="100663313" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663314" Name="get_Caption" Variables="this;" ParamCnt="1" />
+<Method Token="100663315" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663316" Name="OnCreateControl" Variables="this;" ParamCnt="1" />
+<Method Token="100663317" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663318" Name="OnTextChanged" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663319" Name="OnEnter" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663320" Name="OnLeave" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663321" Name="ucAmount_MouseDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663322" Name="ucAmount_Leave" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663324" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108873" Name="oldFont" />
+<Field Token="67108874" Name="oldHeight" />
+<Field Token="67108875" Name="_Caption" />
+<Field Token="67108876" Name="_Enter" />
+<Field Token="67108877" Name="components" />
+<Type Token="33554439" Name="DisableContextMenuItems.DownloadSuggestionsHelper" />
+<Method Token="100663331" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663332" Name="SetupDownloadMenuItems" Variables="this;tsiDownload;lastapp;m;tsic;k;tsi;" ParamCnt="2" />
+<Method Token="100663333" Name="tsi_Click" Variables="this;sender;e;tsi;" ParamCnt="3" />
+<Field Token="67108879" Name="tsiDownloadRoot" />
+<Field Token="67108880" Name="Category" />
+<Field Token="67108881" Name="App" />
+<Field Token="67108882" Name="Url" />
+<Type Token="33554440" Name="DisableContextMenuItems.ExceptionHandlersHelper" />
+<Method Token="100663334" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663335" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663336" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663337" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554441" Name="DisableContextMenuItems.frmAbout" />
+<Method Token="100663338" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663340" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663342" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663345" Name="btnRegister_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663347" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108883" Name="lblf" />
+<Field Token="67108884" Name="LDT" />
+<Field Token="67108885" Name="components" />
+<Field Token="67108886" Name="lblAbout" />
+<Field Token="67108887" Name="btnClose" />
+<Field Token="67108888" Name="pictureBox1" />
+<Field Token="67108889" Name="linkLabel1" />
+<Field Token="67108890" Name="label1" />
+<Field Token="67108891" Name="label2" />
+<Field Token="67108892" Name="linkLabel2" />
+<Field Token="67108893" Name="niceLine1" />
+<Field Token="67108894" Name="niceLine3" />
+<Field Token="67108895" Name="label3" />
+<Field Token="67108896" Name="ullProductWebpage" />
+<Field Token="67108897" Name="btnBuy" />
+<Field Token="67108898" Name="lblRegistered" />
+<Field Token="67108899" Name="btnRegister" />
+<Field Token="67108900" Name="niceLine2" />
+<Field Token="67108901" Name="label4" />
+<Field Token="67108902" Name="lblLicenseKey" />
+<Field Token="67108903" Name="niceLine4" />
+<Type Token="33554442" Name="DisableContextMenuItems.frmAdeia" />
+<Method Token="100663348" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663350" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663351" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663352" Name="frmAdeia_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663354" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108904" Name="components" />
+<Field Token="67108905" Name="label1" />
+<Field Token="67108906" Name="btnOK" />
+<Field Token="67108907" Name="label2" />
+<Field Token="67108908" Name="txtEmail" />
+<Field Token="67108909" Name="btnExit" />
+<Field Token="67108910" Name="lblAppName" />
+<Type Token="33554443" Name="DisableContextMenuItems.frmChangePassword" />
+<Method Token="100663355" Name=".ctor" Variables="this;new_password;" ParamCnt="2" />
+<Method Token="100663356" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="btnOK_Click" Variables="this;sender;e;oldpass;" ParamCnt="3" />
+<Method Token="100663358" Name="frmEncryptionPassword_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663360" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108911" Name="NewPassword" />
+<Field Token="67108912" Name="WrongPasswordTriesCount" />
+<Field Token="67108913" Name="components" />
+<Field Token="67108914" Name="btnCancel" />
+<Field Token="67108915" Name="btnOK" />
+<Field Token="67108916" Name="txtOldPassword" />
+<Field Token="67108917" Name="lblOldPassword" />
+<Field Token="67108918" Name="txtNewPassword" />
+<Field Token="67108919" Name="label2" />
+<Field Token="67108920" Name="txtConfirmNewPassword" />
+<Field Token="67108921" Name="label3" />
+<Type Token="33554444" Name="DisableContextMenuItems.frmDownloadUpdate" />
+<Method Token="100663361" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663362" Name="get_DownloadFile" Variables="this;spos;file;tempdir;" ParamCnt="1" />
+<Method Token="100663363" Name="get_DownloadURL" Variables="this;" ParamCnt="1" />
+<Method Token="100663364" Name="frmDownloadUpdate_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663365" Name="client_DownloadFileCompleted" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663366" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;" ParamCnt="3" />
+<Method Token="100663367" Name="GetEXEDownloadURL" Variables="this;durl;spos;program;" ParamCnt="1" />
+<Method Token="100663368" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663370" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108922" Name="_DownloadFile" />
+<Field Token="67108923" Name="client" />
+<Field Token="67108924" Name="Cancelled" />
+<Field Token="67108925" Name="components" />
+<Field Token="67108926" Name="pgBar" />
+<Field Token="67108927" Name="btnCancelDownload" />
+<Field Token="67108928" Name="bwDownload" />
+<Field Token="67108929" Name="label1" />
+<Field Token="67108930" Name="lblTotalSize" />
+<Type Token="33554445" Name="DisableContextMenuItems.frmEncryptionPassword" />
+<Method Token="100663371" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663373" Name="btnOK_Click" Variables="this;sender;e;oldpass;" ParamCnt="3" />
+<Method Token="100663374" Name="frmEncryptionPassword_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663375" Name="frmEncryptionPassword_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663377" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108931" Name="NewPassword" />
+<Field Token="67108932" Name="WrongPasswordTriesCount" />
+<Field Token="67108933" Name="NotifyOK" />
+<Field Token="67108934" Name="components" />
+<Field Token="67108935" Name="btnCancel" />
+<Field Token="67108936" Name="btnOK" />
+<Field Token="67108937" Name="txtEncryptionPassword" />
+<Type Token="33554446" Name="DisableContextMenuItems.frmError" />
+<Method Token="100663378" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663379" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663380" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663381" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108938" Name="components" />
+<Field Token="67108939" Name="txtError" />
+<Field Token="67108940" Name="pictureBox1" />
+<Field Token="67108941" Name="lblError" />
+<Field Token="67108942" Name="btnClose" />
+<Type Token="33554447" Name="DisableContextMenuItems.frmLanguage" />
+<Method Token="100663382" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663383" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663384" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;pr;" ParamCnt="4" />
+<Method Token="100663386" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663387" Name="frmLanguage_Load" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663388" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;fl;ex;" ParamCnt="0" />
+<Method Token="100663389" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663390" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108943" Name="LangCodes" />
+<Field Token="67108944" Name="LangDesc" />
+<Field Token="67108945" Name="LangImg" />
+<Field Token="67108946" Name="SelectedLanguageCode" />
+<Field Token="67108947" Name="LangURL" />
+<Field Token="67108948" Name="RegKeyName" />
+<Field Token="67108949" Name="components" />
+<Field Token="67108950" Name="label1" />
+<Field Token="67108951" Name="cmbLanguage" />
+<Field Token="67108952" Name="btnOK" />
+<Type Token="33554449" Name="DisableContextMenuItems.frmMain" />
+<Method Token="100663394" Name=".ctor" Variables="this;requirepass;f;" ParamCnt="1" />
+<Method Token="100663395" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663396" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663397" Name="SetupOnLoad" Variables="this;k;ds;reqpas;" ParamCnt="1" />
+<Method Token="100663398" Name="btnSelectAll_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663399" Name="btnUnselectAll_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663400" Name="btnInvertSelection_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663401" Name="GetListOfUsers" Variables="str;searcher;queryObj;e;" ParamCnt="0" />
+<Method Token="100663402" Name="btnAddCurrentUser_Click" Variables="this;sender;e;k;" ParamCnt="3" />
+<Method Token="100663403" Name="button2_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663404" Name="btnSelAll_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663405" Name="btnUnSelAll_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663406" Name="btnInvSel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663407" Name="chkSelectUsers_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663408" Name="btnOK_Click" Variables="this;sender;e;cm;users;k;dbl;suc;" ParamCnt="3" />
+<Method Token="100663409" Name="helpUsersManualToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663410" Name="pleaseDonateToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663411" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663412" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663413" Name="feedbackToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663415" Name="visit4dotsSoftwareWebpageToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663416" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663417" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663418" Name="shareOnFacebookToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663419" Name="shareOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663420" Name="shareOnGooglePlusToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663421" Name="shareOnLinkedinToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663422" Name="shareWithEmailToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663423" Name="AddLanguageMenuItems" Variables="this;k;ti;" ParamCnt="1" />
+<Method Token="100663424" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;" ParamCnt="3" />
+<Method Token="100663425" Name="ChangeLanguage" Variables="this;language_code;maximized;" ParamCnt="2" />
+<Method Token="100663426" Name="SavePositionSize" Variables="this;" ParamCnt="1" />
+<Method Token="100663427" Name="RepositionResize" Variables="this;" ParamCnt="1" />
+<Method Token="100663428" Name="requirePasswordToolStripMenuItem_Click" Variables="this;sender;e;setpass;oldpass;f;" ParamCnt="3" />
+<Method Token="100663429" Name="changePasswordToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663430" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663431" Name="timer2_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663432" Name="timer3_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663433" Name="buyApplicationToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663434" Name="enterLicenseKeyToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663435" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663436" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108954" Name="Instance" />
+<Field Token="67108955" Name="InSetupOnLoad" />
+<Field Token="67108956" Name="lUsers" />
+<Field Token="67108957" Name="lSID" />
+<Field Token="67108958" Name="InChangeLanguage" />
+<Field Token="67108959" Name="components" />
+<Field Token="67108960" Name="niceLine1" />
+<Field Token="67108961" Name="lstUsers" />
+<Field Token="67108962" Name="btnAddCurrentUser" />
+<Field Token="67108963" Name="btnSelectAll" />
+<Field Token="67108964" Name="btnUnselectAll" />
+<Field Token="67108965" Name="btnInvertSelection" />
+<Field Token="67108966" Name="niceLine2" />
+<Field Token="67108967" Name="chkCut" />
+<Field Token="67108968" Name="chkCopy" />
+<Field Token="67108969" Name="chkDelete" />
+<Field Token="67108970" Name="chkRename" />
+<Field Token="67108971" Name="chkProperties" />
+<Field Token="67108972" Name="btnOK" />
+<Field Token="67108973" Name="niceLine3" />
+<Field Token="67108974" Name="chkDoubleClickOpen" />
+<Field Token="67108975" Name="niceLine4" />
+<Field Token="67108976" Name="button2" />
+<Field Token="67108977" Name="btnInvSel" />
+<Field Token="67108978" Name="btnUnSelAll" />
+<Field Token="67108979" Name="btnSelAll" />
+<Field Token="67108980" Name="groupBox1" />
+<Field Token="67108981" Name="chkCurrentUser" />
+<Field Token="67108982" Name="chkAllUsers" />
+<Field Token="67108983" Name="chkSelectUsers" />
+<Field Token="67108984" Name="menuStrip1" />
+<Field Token="67108985" Name="fileToolStripMenuItem" />
+<Field Token="67108986" Name="exitToolStripMenuItem" />
+<Field Token="67108987" Name="tsiDownload" />
+<Field Token="67108988" Name="pleaseShareToolStripMenuItem" />
+<Field Token="67108989" Name="shareOnFacebookToolStripMenuItem" />
+<Field Token="67108990" Name="shareOnTwitterToolStripMenuItem" />
+<Field Token="67108991" Name="shareOnGooglePlusToolStripMenuItem" />
+<Field Token="67108992" Name="shareOnLinkedinToolStripMenuItem" />
+<Field Token="67108993" Name="shareWithEmailToolStripMenuItem" />
+<Field Token="67108994" Name="buyToolStripMenuItem" />
+<Field Token="67108995" Name="buyApplicationToolStripMenuItem" />
+<Field Token="67108996" Name="enterLicenseKeyToolStripMenuItem" />
+<Field Token="67108997" Name="helpToolStripMenuItem" />
+<Field Token="67108998" Name="helpUsersManualToolStripMenuItem" />
+<Field Token="67108999" Name="toolStripMenuItem6" />
+<Field Token="67109000" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67109001" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67109002" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109003" Name="visit4dotsSoftwareWebpageToolStripMenuItem" />
+<Field Token="67109004" Name="toolStripMenuItem5" />
+<Field Token="67109005" Name="feedbackToolStripMenuItem" />
+<Field Token="67109006" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67109007" Name="aboutToolStripMenuItem" />
+<Field Token="67109008" Name="languageToolStripMenuItem" />
+<Field Token="67109009" Name="languages1ToolStripMenuItem" />
+<Field Token="67109010" Name="languages2ToolStripMenuItem" />
+<Field Token="67109011" Name="optionsToolStripMenuItem" />
+<Field Token="67109012" Name="changePasswordToolStripMenuItem" />
+<Field Token="67109013" Name="requirePasswordToolStripMenuItem" />
+<Field Token="67109014" Name="timer1" />
+<Field Token="67109015" Name="timer2" />
+<Field Token="67109016" Name="timer3" />
+<Type Token="33554450" Name="DisableContextMenuItems.frmPurchase" />
+<Method Token="100663437" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name=".ctor" Variables="this;msgtype;" ParamCnt="2" />
+<Method Token="100663439" Name=".ctor" Variables="this;msgtype;datefrom;datelast;dtfrom;key;dtlast;ts;days;f;" ParamCnt="4" />
+<Method Token="100663440" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663441" Name="frmPurchase_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663442" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663443" Name="timContinue_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663444" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663445" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663446" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663447" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Method Token="100663448" Name="btnRegister_Click_1" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663449" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663450" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663451" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109017" Name="TrialDay" />
+<Field Token="67109018" Name="RemainingDays" />
+<Field Token="67109019" Name="TimerCount" />
+<Field Token="67109020" Name="RenMove" />
+<Field Token="67109021" Name="btnExitVisible" />
+<Field Token="67109022" Name="Msg" />
+<Field Token="67109023" Name="Datefrom" />
+<Field Token="67109024" Name="Datelast" />
+<Field Token="67109025" Name="Instance" />
+<Field Token="67109026" Name="components" />
+<Field Token="67109027" Name="btnBuy" />
+<Field Token="67109028" Name="lblMsg" />
+<Field Token="67109029" Name="btnClose" />
+<Field Token="67109030" Name="lblWait" />
+<Field Token="67109031" Name="timContinue" />
+<Field Token="67109032" Name="lblAppName" />
+<Field Token="67109033" Name="btnRegister" />
+<Field Token="67109034" Name="btnExit" />
+<Type Token="33554451" Name="DisableContextMenuItems.DisplayMessageType1" />
+<Field Token="67109035" Name="value__" />
+<Field Token="67109036" Name="License_Expired" />
+<Field Token="67109037" Name="License_N_Days_Remaining" />
+<Type Token="33554453" Name="DisableContextMenuItems.frmSchedule" />
+<Method Token="100663459" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663460" Name="frmSchedule_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663461" Name="cmbSchedule_SelectedIndexChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663462" Name="HideAll" Variables="this;" ParamCnt="1" />
+<Method Token="100663463" Name="button2_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663464" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663465" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663466" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109044" Name="components" />
+<Field Token="67109045" Name="label1" />
+<Field Token="67109046" Name="cmbSchedule" />
+<Field Token="67109047" Name="chkSun" />
+<Field Token="67109048" Name="chkSat" />
+<Field Token="67109049" Name="chkFri" />
+<Field Token="67109050" Name="chkThu" />
+<Field Token="67109051" Name="chkWed" />
+<Field Token="67109052" Name="chkTue" />
+<Field Token="67109053" Name="chkMon" />
+<Field Token="67109054" Name="dtEnd" />
+<Field Token="67109055" Name="dtStart" />
+<Field Token="67109056" Name="lblSWeek" />
+<Field Token="67109057" Name="lblSEnd" />
+<Field Token="67109058" Name="lblSStart" />
+<Field Token="67109059" Name="button2" />
+<Field Token="67109060" Name="btnOK" />
+<Type Token="33554454" Name="DisableContextMenuItems.FuzzyMatch" />
+<Method Token="100663467" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663468" Name="ExtractPreviousFuzzyMatch" Variables="helpcolumn;shelp;istart;iend;" ParamCnt="1" />
+<Method Token="100663469" Name="SetFuzzyHelpColumnText" Variables="fuzzypercent;helpcolumn;shelp;istart;iend;ishelp;" ParamCnt="2" />
+<Method Token="100663470" Name="IsFuzzyMatchForReport" Variables="sNew;sOld;percent_fuzzy_from;percent_fuzzy_to;l;lp;" ParamCnt="4" />
+<Method Token="100663471" Name="IsFuzzyMatch" Variables="sNew;sOld;helpcolumn;l;lp;iprevious;shelp;f;e;ff;" ParamCnt="3" />
+<Type Token="33554455" Name="DisableContextMenuItems.FuzzyMatchResult" />
+<Method Token="100663472" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109061" Name="IsFuzzy" />
+<Field Token="67109062" Name="helpcolumn" />
+<Type Token="33554456" Name="DisableContextMenuItems.Levenshtein" />
+<Method Token="100663473" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663474" Name="iLD" Variables="this;sRow;sCol;RowLen;ColLen;RowIdx;ColIdx;Row_i;Col_j;cost;v0;v1;vTmp;m_min;b;c;max;" ParamCnt="3" />
+<Method Token="100663475" Name="Minimum" Variables="this;a;b;c;mi;" ParamCnt="4" />
+<Method Token="100663476" Name="LD" Variables="this;sNew;sOld;matrix;sNewLen;sOldLen;sNewIdx;sOldIdx;sNew_i;sOld_j;cost;max;" ParamCnt="3" />
+<Type Token="33554457" Name="DisableContextMenuItems.ImageComboBox" />
+<Method Token="100663477" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663478" Name="get_ImageList" Variables="this;" ParamCnt="1" />
+<Method Token="100663479" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663480" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;" ParamCnt="2" />
+<Field Token="67109063" Name="imageList" />
+<Type Token="33554458" Name="DisableContextMenuItems.ComboBoxExItem" />
+<Method Token="100663481" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663482" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663483" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663484" Name="get_Text" Variables="this;" ParamCnt="1" />
+<Method Token="100663485" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663486" Name="get_ImageIndex" Variables="this;" ParamCnt="1" />
+<Method Token="100663487" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663488" Name="ToString" Variables="this;" ParamCnt="1" />
+<Field Token="67109064" Name="_text" />
+<Field Token="67109065" Name="_imageIndex" />
+<Type Token="33554459" Name="DisableContextMenuItems.ImagesViewHelper" />
+<Method Token="100663489" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663490" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663491" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663492" Name="GeneratePreviewItems" Variables="sfilecontents;sr;e;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;myba;data;key;iv;byteData;enc;tdes;ict;ex;elements;email;reg_key;myvl;datefrom;datelast;expired;ver;newversion;iver;icurver;datfrom1;userkey;encrypted_kleidi_xristi;kx;ky;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;dtfrom;key;dtlast;" ParamCnt="0" />
+<Method Token="100663493" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Field Token="67109066" Name="DtFrom" />
+<Field Token="67109067" Name="DtLast" />
+<Type Token="33554460" Name="DisableContextMenuItems.SettingsHelper" />
+<Method Token="100663494" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663495" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67109068" Name="RenMove" />
+<Type Token="33554461" Name="DisableContextMenuItems.InputModeHelper" />
+<Method Token="100663496" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663497" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663498" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663499" Name="AnalyzeSearch" Variables="email;serNum;maxCompLen;VolLabel;VolFlags;FSName;strDriveLetter;Ret;myvl;userkey;encrypted_kleidi_xristi;data;key;iv;byteData;enc;tdes;ict;ex;postCgi;dataLine;uri;request;bytes;outputStream;response;responseStream;reader;exp;reg_key;sfilecontents;sr;myba;elements;k;licfile;sw;e;exmain;" ParamCnt="0" />
+<Method Token="100663500" Name="Bin2Hex" Variables="bin;sb;b;" ParamCnt="1" />
+<Field Token="67109069" Name="frmad" />
+<Type Token="33554462" Name="DisableContextMenuItems.MiscHelper" />
+<Method Token="100663501" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663502" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663503" Name="CurrentDomain_ProcessExit" Variables="sender;e;fi;dt_create;dt_last_modified;dt_last_accessed;sfilecontents;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;elements;reg_key;email;k;dtfrom;key;mili;licfile;sw;fi_after;" ParamCnt="2" />
+<Method Token="100663504" Name="ParseDate" Variables="datestr;" ParamCnt="1" />
+<Field Token="67109070" Name="DateTimeFormat" />
+<Type Token="33554463" Name="DisableContextMenuItems.Module" />
+<Method Token="100663505" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663506" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663507" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663508" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663509" Name="WaitNMSeconds" Variables="mseconds;_desired;" ParamCnt="1" />
+<Method Token="100663510" Name="IsLegalFilename" Variables="name;fileInfo;" ParamCnt="1" />
+<Method Token="100663511" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;i;newPath;" ParamCnt="2" />
+<Method Token="100663512" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663513" Name="ShowQuestionDialog" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663514" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663515" Name="ShowError" Variables="msg;f;" ParamCnt="1" />
+<Method Token="100663516" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663517" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663518" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663519" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;" ParamCnt="2" />
+<Method Token="100663520" Name="get_Modex64" Variables="" ParamCnt="0" />
+<Method Token="100663521" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663522" Name="HexConverter" Variables="c;rtn;ex;" ParamCnt="1" />
+<Method Token="100663523" Name="DecimalToString" Variables="dec;" ParamCnt="1" />
+<Method Token="100663524" Name="DecimalToString" Variables="dec;decimal_places;format;k;" ParamCnt="2" />
+<Method Token="100663525" Name="StringToDecimal" Variables="str;epos;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;k;ddecimal_part;ddec;dintegral_part;d;" ParamCnt="1" />
+<Method Token="100663526" Name="get_IsWindows64Bit" Variables="p;" ParamCnt="0" />
+<Method Token="100663527" Name="RunAdminAction" Variables="args;pr;" ParamCnt="1" />
+<Field Token="67109071" Name="BlueForeColor" />
+<Field Token="67109072" Name="ApplicationName" />
+<Field Token="67109073" Name="Version" />
+<Field Token="67109074" Name="Ver" />
+<Field Token="67109075" Name="ShortApplicationTitle" />
+<Field Token="67109076" Name="ApplicationTitle" />
+<Field Token="67109077" Name="DownloadURL" />
+<Field Token="67109078" Name="HelpURL" />
+<Field Token="67109079" Name="ProductWebpageURL" />
+<Field Token="67109080" Name="BuyURL" />
+<Field Token="67109081" Name="VersionURL" />
+<Field Token="67109082" Name="TipText" />
+<Field Token="67109083" Name="SelectedLanguage" />
+<Field Token="67109084" Name="args" />
+<Field Token="67109085" Name="_Modex64" />
+<Type Token="33554464" Name="DisableContextMenuItems.NiceLine" />
+<Method Token="100663528" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663529" Name="get_Caption" Variables="this;" ParamCnt="1" />
+<Method Token="100663530" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663531" Name="get_CaptionMarginSpace" Variables="this;" ParamCnt="1" />
+<Method Token="100663532" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663533" Name="get_CaptionPadding" Variables="this;" ParamCnt="1" />
+<Method Token="100663534" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663535" Name="get_LineVerticalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663536" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663537" Name="get_CaptionOrizontalAlign" Variables="this;" ParamCnt="1" />
+<Method Token="100663538" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663539" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663540" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663541" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;" ParamCnt="2" />
+<Method Token="100663542" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663543" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109086" Name="components" />
+<Field Token="67109087" Name="_Caption" />
+<Field Token="67109088" Name="_CaptionMarginSpace" />
+<Field Token="67109089" Name="_CaptionPadding" />
+<Field Token="67109090" Name="_LineVerticalAlign" />
+<Field Token="67109091" Name="_CaptionOrizontalAlign" />
+<Type Token="33554465" Name="DisableContextMenuItems.LineVerticalAlign" />
+<Field Token="67109092" Name="value__" />
+<Field Token="67109093" Name="Top" />
+<Field Token="67109094" Name="Middle" />
+<Field Token="67109095" Name="Bottom" />
+<Type Token="33554466" Name="DisableContextMenuItems.CaptionOrizontalAlign" />
+<Field Token="67109096" Name="value__" />
+<Field Token="67109097" Name="Left" />
+<Field Token="67109098" Name="Center" />
+<Field Token="67109099" Name="Right" />
+<Type Token="33554467" Name="DisableContextMenuItems.OwnerDrawnComboBox" />
+<Method Token="100663544" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663545" Name="get_DropDownBorderColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663546" Name="set_DropDownBorderColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663547" Name="get_DropDownBackColor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663548" Name="set_DropDownBackColor" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663549" Name="OnPaint" Variables="this;e;txt;epos;sz;first;second;fsec;sz2;" ParamCnt="2" />
+<Method Token="100663550" Name="OnDrawItem" Variables="this;e;a;backgroundBrush;txt;epos;fsec;sz;first;second;sz2;borderPen;start;end;" ParamCnt="2" />
+<Method Token="100663551" Name="OnKeyDown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663552" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109100" Name="&lt;DropDownBorderColor&gt;k__BackingField" />
+<Field Token="67109101" Name="&lt;DropDownBackColor&gt;k__BackingField" />
+<Type Token="33554468" Name="DisableContextMenuItems.Program" />
+<Method Token="100663553" Name="Main" Variables="args;" ParamCnt="1" />
+<Type Token="33554469" Name="DisableContextMenuItems.RegistryHelper" />
+<Method Token="100663554" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663555" Name="GetRegistryKeyValue" Variables="regpath;key;lm;reg;regkey;" ParamCnt="3" />
+<Method Token="100663556" Name="GetAppRegistryKeyValue" Variables="key;lm;" ParamCnt="2" />
+<Method Token="100663557" Name="GetAppRegistryKeyValue" Variables="app;key;lm;reg;regkey;" ParamCnt="3" />
+<Method Token="100663558" Name="SetAppRegistryKeyValue" Variables="key;keyvalue;lm;p;" ParamCnt="3" />
+<Type Token="33554470" Name="DisableContextMenuItems.ResFlags" />
+<Method Token="100663559" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663560" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663561" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663562" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663563" Name="get_flag_albania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663564" Name="get_flag_belarus" Variables="obj;" ParamCnt="0" />
+<Method Token="100663565" Name="get_flag_bulgaria" Variables="obj;" ParamCnt="0" />
+<Method Token="100663566" Name="get_flag_china" Variables="obj;" ParamCnt="0" />
+<Method Token="100663567" Name="get_flag_croatia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663568" Name="get_flag_czech_republic" Variables="obj;" ParamCnt="0" />
+<Method Token="100663569" Name="get_flag_denmark" Variables="obj;" ParamCnt="0" />
+<Method Token="100663570" Name="get_flag_estonia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663571" Name="get_flag_finland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663572" Name="get_flag_france" Variables="obj;" ParamCnt="0" />
+<Method Token="100663573" Name="get_flag_georgia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663574" Name="get_flag_germany" Variables="obj;" ParamCnt="0" />
+<Method Token="100663575" Name="get_flag_great_britain" Variables="obj;" ParamCnt="0" />
+<Method Token="100663576" Name="get_flag_greece" Variables="obj;" ParamCnt="0" />
+<Method Token="100663577" Name="get_flag_hungary" Variables="obj;" ParamCnt="0" />
+<Method Token="100663578" Name="get_flag_iceland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663579" Name="get_flag_india" Variables="obj;" ParamCnt="0" />
+<Method Token="100663580" Name="get_flag_indonesia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663581" Name="get_flag_iran" Variables="obj;" ParamCnt="0" />
+<Method Token="100663582" Name="get_flag_ireland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663583" Name="get_flag_israel" Variables="obj;" ParamCnt="0" />
+<Method Token="100663584" Name="get_flag_italy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663585" Name="get_flag_japan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663586" Name="get_flag_kenya" Variables="obj;" ParamCnt="0" />
+<Method Token="100663587" Name="get_flag_latvia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663588" Name="get_flag_lithuania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663589" Name="get_flag_netherlands" Variables="obj;" ParamCnt="0" />
+<Method Token="100663590" Name="get_flag_norway" Variables="obj;" ParamCnt="0" />
+<Method Token="100663591" Name="get_flag_pakistan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663592" Name="get_flag_philippines" Variables="obj;" ParamCnt="0" />
+<Method Token="100663593" Name="get_flag_poland" Variables="obj;" ParamCnt="0" />
+<Method Token="100663594" Name="get_flag_portugal" Variables="obj;" ParamCnt="0" />
+<Method Token="100663595" Name="get_flag_romania" Variables="obj;" ParamCnt="0" />
+<Method Token="100663596" Name="get_flag_russia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663597" Name="get_flag_saudi_arabia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663598" Name="get_flag_serbia_montenegro" Variables="obj;" ParamCnt="0" />
+<Method Token="100663599" Name="get_flag_slovakia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663600" Name="get_flag_slovenia" Variables="obj;" ParamCnt="0" />
+<Method Token="100663601" Name="get_flag_south_africa" Variables="obj;" ParamCnt="0" />
+<Method Token="100663602" Name="get_flag_south_korea" Variables="obj;" ParamCnt="0" />
+<Method Token="100663603" Name="get_flag_spain" Variables="obj;" ParamCnt="0" />
+<Method Token="100663604" Name="get_flag_sweden" Variables="obj;" ParamCnt="0" />
+<Method Token="100663605" Name="get_flag_taiwan" Variables="obj;" ParamCnt="0" />
+<Method Token="100663606" Name="get_flag_thailand" Variables="obj;" ParamCnt="0" />
+<Method Token="100663607" Name="get_flag_turkey" Variables="obj;" ParamCnt="0" />
+<Method Token="100663608" Name="get_flag_ukraine" Variables="obj;" ParamCnt="0" />
+<Method Token="100663609" Name="get_flag_vietnam" Variables="obj;" ParamCnt="0" />
+<Field Token="67109102" Name="resourceMan" />
+<Field Token="67109103" Name="resourceCulture" />
+<Type Token="33554471" Name="DisableContextMenuItems.ResRegister" />
+<Method Token="100663610" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663611" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663612" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663613" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663614" Name="get_Add_new_search_item_to_project" Variables="" ParamCnt="0" />
+<Method Token="100663615" Name="get_Continue_activated_search_" Variables="" ParamCnt="0" />
+<Method Token="100663616" Name="get_Direct_search_started" Variables="" ParamCnt="0" />
+<Method Token="100663617" Name="get_Edit_4dots_Project" Variables="" ParamCnt="0" />
+<Method Token="100663618" Name="get_Erroneous_search_2" Variables="" ParamCnt="0" />
+<Method Token="100663619" Name="get_Error_1" Variables="" ParamCnt="0" />
+<Method Token="100663620" Name="get_Error_12" Variables="" ParamCnt="0" />
+<Method Token="100663621" Name="get_Error_4" Variables="" ParamCnt="0" />
+<Method Token="100663622" Name="get_Import_search_result" Variables="" ParamCnt="0" />
+<Method Token="100663623" Name="get_Init_Project" Variables="" ParamCnt="0" />
+<Method Token="100663624" Name="get_MessageTitle" Variables="" ParamCnt="0" />
+<Method Token="100663625" Name="get_MessageTitle7" Variables="" ParamCnt="0" />
+<Method Token="100663626" Name="get_MessageTitle8" Variables="" ParamCnt="0" />
+<Method Token="100663627" Name="get_Search_duration_process" Variables="" ParamCnt="0" />
+<Method Token="100663628" Name="get_String1" Variables="" ParamCnt="0" />
+<Method Token="100663629" Name="get_Uniform_process" Variables="" ParamCnt="0" />
+<Method Token="100663630" Name="get_Αλλαγή_Ονόματος" Variables="" ParamCnt="0" />
+<Method Token="100663631" Name="get_Αλλαγή_στοιχείων_εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663632" Name="get_Αλλαγή_Φίλτρου_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663633" Name="get_Ανανέωση_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663634" Name="get_Εισαγωγή_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663635" Name="get_Εναλλαγή_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663636" Name="get_Καθορισμός_Ονόματος" Variables="" ParamCnt="0" />
+<Method Token="100663637" Name="get_Μορφοποίηση_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663638" Name="get_Νέα_Εικόνα" Variables="" ParamCnt="0" />
+<Method Token="100663639" Name="get_Παράμετροι_Μετρήσεως_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663640" Name="get_Περιγραφή_Ονόματος" Variables="" ParamCnt="0" />
+<Method Token="100663641" Name="get_Πηγή_Εικόνας" Variables="" ParamCnt="0" />
+<Method Token="100663642" Name="get_Προβολή_Εικόνας_1" Variables="" ParamCnt="0" />
+<Method Token="100663643" Name="get_Προβολή_Εικόνων" Variables="" ParamCnt="0" />
+<Method Token="100663644" Name="get_Σφάλμα_120" Variables="" ParamCnt="0" />
+<Method Token="100663645" Name="get_Σφάλμα_1201" Variables="" ParamCnt="0" />
+<Method Token="100663646" Name="get_Υπολογισμός_Επιφάνειας" Variables="" ParamCnt="0" />
+<Method Token="100663647" Name="get_Φίλτρο_Εικόνας" Variables="" ParamCnt="0" />
+<Field Token="67109104" Name="resourceMan" />
+<Field Token="67109105" Name="resourceCulture" />
+<Type Token="33554472" Name="DisableContextMenuItems.ShareHelper" />
+<Method Token="100663648" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663649" Name="get_ShareURL" Variables="url;epos;" ParamCnt="0" />
+<Method Token="100663650" Name="get_ShareText" Variables="txt;" ParamCnt="0" />
+<Method Token="100663651" Name="ShareFacebook" Variables="" ParamCnt="0" />
+<Method Token="100663652" Name="ShareTwitter" Variables="" ParamCnt="0" />
+<Method Token="100663653" Name="ShareGooglePlus" Variables="" ParamCnt="0" />
+<Method Token="100663654" Name="ShareLinkedIn" Variables="" ParamCnt="0" />
+<Method Token="100663655" Name="ShareEmail" Variables="" ParamCnt="0" />
+<Type Token="33554473" Name="DisableContextMenuItems.TranslateHelper" />
+<Method Token="100663656" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663657" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663658" Name="Translate" Variables="str;cm;trnstr;" ParamCnt="1" />
+<Field Token="67109106" Name="rm" />
+<Field Token="67109107" Name="rm2" />
+<Type Token="33554474" Name="DisableContextMenuItems.ucTextProgressBar" />
+<Method Token="100663659" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663660" Name="SetText" Variables="this;str;" ParamCnt="2" />
+<Method Token="100663661" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663662" Name="zOnPaint" Variables="this;e;brBack;curval;maxval;perc;rangerect;font;fillBrush;sPoint;p;" ParamCnt="2" />
+<Method Token="100663663" Name="WndProc" Variables="this;m;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663664" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663665" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109108" Name="WmPaint" />
+<Field Token="67109109" Name="lblText" />
+<Field Token="67109110" Name="components" />
+<Type Token="33554475" Name="DisableContextMenuItems.UpdateHelper" />
+<Method Token="100663666" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663667" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663668" Name="InitializeCheckVersionWeek" Variables="lastcheck;month;day;year;dtlast;" ParamCnt="0" />
+<Method Token="100663669" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663670" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;fdu;resq;" ParamCnt="2" />
+<Method Token="100663671" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663672" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663673" Name="CheckVersionBackground" Variables="onstart;res;str;epos;price;sr;line;found;title;version;verdotpos;vermajor;verminor;curverepos;curver;dotpos;curmajor;curminor;app;" ParamCnt="0" />
+<Method Token="100663674" Name="DownloadPage" Variables="uri;client;data;reader;s;ex;" ParamCnt="1" />
+<Method Token="100663675" Name="CheckVersion" Variables="onstart;str;sr;line;found;epos;title;version;app;" ParamCnt="1" />
+<Field Token="67109111" Name="bwCheckVersion" />
+<Type Token="33554476" Name="DisableContextMenuItems.CheckVersionResult" />
+<Method Token="100663676" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109112" Name="NewVersionReleased" />
+<Field Token="67109113" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109114" Name="OutputMessage" />
+<Type Token="33554477" Name="DisableContextMenuItems.URLLinkLabel" />
+<Method Token="100663677" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663678" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554478" Name="DisableContextMenuItems.XOREncrypter" />
+<Method Token="100663679" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663680" Name="EncryptDecrypt" Variables="toEncrypt;key;ikey;sb;output;i;" ParamCnt="1" />
+<Type Token="33554479" Name="DisableContextMenuItems.Properties.Resources" />
+<Method Token="100663681" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663682" Name="get_ResourceManager" Variables="temp;" ParamCnt="0" />
+<Method Token="100663683" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663684" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663685" Name="get__4dots_logo_official" Variables="obj;" ParamCnt="0" />
+<Method Token="100663686" Name="get__4dots_logo_official_icon" Variables="obj;" ParamCnt="0" />
+<Method Token="100663687" Name="get_about" Variables="obj;" ParamCnt="0" />
+<Method Token="100663688" Name="get_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663689" Name="get_add1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663690" Name="get_arrow_down_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663691" Name="get_arrow_left_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663692" Name="get_arrow_right_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663693" Name="get_arrow_up_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663694" Name="get_brush2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663695" Name="get_brush4" Variables="obj;" ParamCnt="0" />
+<Method Token="100663696" Name="get_bullet_ball_glass_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663697" Name="get_bullet_ball_glass_green" Variables="obj;" ParamCnt="0" />
+<Method Token="100663698" Name="get_bullet_ball_glass_red" Variables="obj;" ParamCnt="0" />
+<Method Token="100663699" Name="get_bullet_ball_glass_yellow" Variables="obj;" ParamCnt="0" />
+<Method Token="100663700" Name="get_cart_icon_b_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663701" Name="get_check" Variables="obj;" ParamCnt="0" />
+<Method Token="100663702" Name="get_copy" Variables="obj;" ParamCnt="0" />
+<Method Token="100663703" Name="get_cut" Variables="obj;" ParamCnt="0" />
+<Method Token="100663704" Name="get_delete" Variables="obj;" ParamCnt="0" />
+<Method Token="100663705" Name="get_delete1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663706" Name="get_disk_blue" Variables="obj;" ParamCnt="0" />
+<Method Token="100663707" Name="get_document_into" Variables="obj;" ParamCnt="0" />
+<Method Token="100663708" Name="get_document_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663709" Name="get_earth" Variables="obj;" ParamCnt="0" />
+<Method Token="100663710" Name="get_edit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663711" Name="get_exit" Variables="obj;" ParamCnt="0" />
+<Method Token="100663712" Name="get_exit1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663713" Name="get_facebook_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663714" Name="get_facebook_32" Variables="obj;" ParamCnt="0" />
+<Method Token="100663715" Name="get_flash" Variables="obj;" ParamCnt="0" />
+<Method Token="100663716" Name="get_flash1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663717" Name="get_folder" Variables="obj;" ParamCnt="0" />
+<Method Token="100663718" Name="get_folder_add" Variables="obj;" ParamCnt="0" />
+<Method Token="100663719" Name="get_folder1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663720" Name="get_googleplus_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663721" Name="get_help2" Variables="obj;" ParamCnt="0" />
+<Method Token="100663722" Name="get_import1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663723" Name="get_information" Variables="obj;" ParamCnt="0" />
+<Method Token="100663724" Name="get_key1" Variables="obj;" ParamCnt="0" />
+<Method Token="100663725" Name="get_linkedin_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663726" Name="get_mail" Variables="obj;" ParamCnt="0" />
+<Method Token="100663727" Name="get_navigate_beginning" Variables="obj;" ParamCnt="0" />
+<Method Token="100663728" Name="get_navigate_end" Variables="obj;" ParamCnt="0" />
+<Method Token="100663729" Name="get_preferences" Variables="obj;" ParamCnt="0" />
+<Method Token="100663730" Name="get_right_click_menu_items_disabler_48" Variables="obj;" ParamCnt="0" />
+<Method Token="100663731" Name="get_twitter_24" Variables="obj;" ParamCnt="0" />
+<Method Token="100663732" Name="get_twitter_32" Variables="obj;" ParamCnt="0" />
+<Method Token="100663733" Name="get_warning" Variables="obj;" ParamCnt="0" />
+<Field Token="67109115" Name="resourceMan" />
+<Field Token="67109116" Name="resourceCulture" />
+<Type Token="33554480" Name="DisableContextMenuItems.Properties.Settings" />
+<Method Token="100663734" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663735" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663736" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663737" Name="get_LastCheckVersion" Variables="this;" ParamCnt="1" />
+<Method Token="100663738" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663739" Name="get_Price" Variables="this;" ParamCnt="1" />
+<Method Token="100663740" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663741" Name="get_Language" Variables="this;" ParamCnt="1" />
+<Method Token="100663742" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663743" Name="get_Maximized" Variables="this;" ParamCnt="1" />
+<Method Token="100663744" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663745" Name="get_Left" Variables="this;" ParamCnt="1" />
+<Method Token="100663746" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663747" Name="get_Top" Variables="this;" ParamCnt="1" />
+<Method Token="100663748" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663749" Name="get_Width" Variables="this;" ParamCnt="1" />
+<Method Token="100663750" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663751" Name="get_Height" Variables="this;" ParamCnt="1" />
+<Method Token="100663752" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663753" Name="get_SetDoubleClick" Variables="this;" ParamCnt="1" />
+<Method Token="100663754" Name="set_SetDoubleClick" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109117" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663305" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ContextMenuHelper.cs" NewName="File0" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomForm.cs" NewName="File1" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomForm.designer.cs" NewName="File2" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomTextBoxLabel.cs" NewName="File3" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\CustomTextBoxLabel.designer.cs" NewName="File4" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\DownloadSuggestionsHelper.cs" NewName="File5" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ExceptionHandlersHelper.cs" NewName="File6" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAbout2.cs" NewName="File7" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAbout2.designer.cs" NewName="File8" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAdeia.cs" NewName="File9" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmAdeia.designer.cs" NewName="File10" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmChangePassword.cs" NewName="File11" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmChangePassword.Designer.cs" NewName="File12" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmDownloadUpdate.cs" NewName="File13" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmDownloadUpdate.Designer.cs" NewName="File14" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmEncryptionPassword.cs" NewName="File15" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmEncryptionPassword.Designer.cs" NewName="File16" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmError.cs" NewName="File17" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmError.Designer.cs" NewName="File18" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmLanguage.cs" NewName="File19" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmLanguage.designer.cs" NewName="File20" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmMain.cs" NewName="File21" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmMain.Designer.cs" NewName="File22" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmPurchase.cs" NewName="File23" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmPurchase.Designer.cs" NewName="File24" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmSchedule.cs" NewName="File25" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\frmSchedule.Designer.cs" NewName="File26" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\FuzzyMatchResult.cs" NewName="File27" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ImageComboBox.cs" NewName="File28" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ImagesViewHelper.cs" NewName="File29" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\InputModeHelper.cs" NewName="File30" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\MiscHelper.cs" NewName="File31" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Module.cs" NewName="File32" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\NiceLine.cs" NewName="File33" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\OwnerDrawnComboBox.cs" NewName="File34" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Program.cs" NewName="File35" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\RegistryHelper.cs" NewName="File36" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ResFlags.Designer.cs" NewName="File37" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ResRegister.Designer.cs" NewName="File38" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ShareHelper.cs" NewName="File39" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\TranslateHelper.cs" NewName="File40" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ucTextProgressBar.cs" NewName="File41" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\ucTextProgressBar.Designer.cs" NewName="File42" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\UpdateHelper.cs" NewName="File43" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\URLLinkLabel.cs" NewName="File44" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\XOREncrypter.cs" NewName="File45" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Properties\Resources.Designer.cs" NewName="File46" />
+<File OldName="c:\code\System Utilities\DisableContextMenuItems\DisableContextMenuItems\Properties\Settings.Designer.cs" NewName="File47" />
+</Mappings>
